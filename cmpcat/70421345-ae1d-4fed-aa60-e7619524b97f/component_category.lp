@@ -9,5 +9,5 @@
  (name (locale "de_DE") "LEDs")
  (description "")
  (keywords "led,light,opto")
- (parent null)
+ (parent 798db79a-f83e-49c5-bc4c-33e77c8501d6)
 )
