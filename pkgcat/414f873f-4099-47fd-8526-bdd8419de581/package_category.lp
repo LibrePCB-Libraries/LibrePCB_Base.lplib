@@ -1,10 +1,10 @@
 (librepcb_package_category 414f873f-4099-47fd-8526-bdd8419de581
- (name "C-SMT")
+ (name "Chip Capacitor")
  (description "")
  (keywords "")
- (author "Urban Bruhin")
+ (author "U. Bruhin")
  (version "0.1")
  (created 2017-12-05T18:55:20Z)
  (deprecated false)
- (parent none)
+ (parent 5797019a-87f3-4b9b-8973-21834c40fb20)
 )

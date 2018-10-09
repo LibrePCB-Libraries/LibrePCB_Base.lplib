@@ -2,7 +2,7 @@
  (name "Optoelectronics")
  (description "")
  (keywords "")
- (author "LibrePCB")
+ (author "U. Bruhin")
  (version "0.1")
  (created 2018-02-01T21:25:35Z)
  (deprecated false)

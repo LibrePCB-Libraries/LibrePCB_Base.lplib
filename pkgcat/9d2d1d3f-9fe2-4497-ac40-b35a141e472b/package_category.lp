@@ -1,8 +1,8 @@
 (librepcb_package_category 9d2d1d3f-9fe2-4497-ac40-b35a141e472b
- (name "Crystals")
+ (name "Crystal")
  (description "")
  (keywords "")
- (author "Urban Bruhin")
+ (author "U. Bruhin")
  (version "0.1")
  (created 2017-12-05T18:55:38Z)
  (deprecated false)
