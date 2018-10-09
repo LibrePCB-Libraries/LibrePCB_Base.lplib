@@ -1,12 +1,10 @@
-(librepcb_package_category
- (uuid a20f0330-06d3-4bc2-a1fa-f8577deb6770)
- (version "0.1")
- (author "Urban Bruhin")
- (created 2017-12-05T18:55:07Z)
- (modified 2017-12-05T18:55:07Z)
- (deprecated false)
+(librepcb_package_category a20f0330-06d3-4bc2-a1fa-f8577deb6770
  (name "R-SMT")
  (description "")
  (keywords "")
- (parent null)
+ (author "Urban Bruhin")
+ (version "0.1")
+ (created 2017-12-05T18:55:07Z)
+ (deprecated false)
+ (parent none)
 )

@@ -1,12 +1,10 @@
-(librepcb_package_category
- (uuid 414f873f-4099-47fd-8526-bdd8419de581)
- (version "0.1")
- (author "Urban Bruhin")
- (created 2017-12-05T18:55:20Z)
- (modified 2017-12-05T18:55:20Z)
- (deprecated false)
+(librepcb_package_category 414f873f-4099-47fd-8526-bdd8419de581
  (name "C-SMT")
  (description "")
  (keywords "")
- (parent null)
+ (author "Urban Bruhin")
+ (version "0.1")
+ (created 2017-12-05T18:55:20Z)
+ (deprecated false)
+ (parent none)
 )
