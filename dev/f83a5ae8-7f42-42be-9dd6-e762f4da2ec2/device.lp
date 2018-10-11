@@ -1,9 +1,9 @@
 (librepcb_device f83a5ae8-7f42-42be-9dd6-e762f4da2ec2
- (name "Crystal ABM3")
- (description "")
+ (name "ABM3")
+ (description "Miniature ceramic SMD crystal")
  (keywords "")
- (author "LibrePCB")
- (version "0.1")
+ (author "U. Bruhin")
+ (version "0.2")
  (created 2015-08-13T20:22:35Z)
  (deprecated false)
  (category 39d4b3d6-4168-4fe2-9420-fbf7eb3ac248)

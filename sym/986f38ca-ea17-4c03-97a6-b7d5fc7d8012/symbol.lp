@@ -1,9 +1,9 @@
 (librepcb_symbol 986f38ca-ea17-4c03-97a6-b7d5fc7d8012
  (name "Crystal")
  (description "")
- (keywords "")
- (author "LibrePCB")
- (version "0.1")
+ (keywords "crystal,oscillator")
+ (author "U. Bruhin")
+ (version "0.2")
  (created 2015-03-08T15:39:53Z)
  (deprecated false)
  (category 39d4b3d6-4168-4fe2-9420-fbf7eb3ac248)

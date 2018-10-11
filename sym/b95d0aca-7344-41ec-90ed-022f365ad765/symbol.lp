@@ -1,9 +1,9 @@
 (librepcb_symbol b95d0aca-7344-41ec-90ed-022f365ad765
- (name "Supply Symbol")
+ (name "VCC")
  (description "")
  (keywords "supply,vcc")
- (author "LibrePCB")
- (version "0.1")
+ (author "U. Bruhin")
+ (version "0.2")
  (created 2015-03-01T20:00:00Z)
  (deprecated false)
  (category adf8d941-787c-4b02-8772-fbc0a587463d)
