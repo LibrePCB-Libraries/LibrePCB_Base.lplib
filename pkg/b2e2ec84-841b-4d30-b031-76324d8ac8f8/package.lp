@@ -8,7 +8,7 @@
  (deprecated false)
  (category 1d2630f1-c375-49f0-a0dc-2446735d82f4)
  (footprint 19a6ba38-a1dd-4c97-a036-11011ef4d73d
-  (name "6x6mm_Silkscreen")
+  (name "6x6mm Silkscreen")
   (description "")
   (polygon 6caa696d-ca75-4de3-b93b-1cbdc91270b6 (layer top_placement)
    (width 0.0) (fill true) (grab_area true)
@@ -132,7 +132,7 @@
   )
  )
  (footprint 61e2a99c-e837-4837-9d7c-4f930fc4a5ab
-  (name "6x6mm_Copper")
+  (name "6x6mm Copper")
   (description "")
   (polygon 6caa696d-ca75-4de3-b93b-1cbdc91270b6 (layer top_cu)
    (width 0.0) (fill true) (grab_area true)
@@ -256,7 +256,7 @@
   )
  )
  (footprint f718db67-c10e-4c28-bbb6-dcbef65acfb2
-  (name "12x12mm_Silkscreen")
+  (name "12x12mm Silkscreen")
   (description "")
   (polygon 6caa696d-ca75-4de3-b93b-1cbdc91270b6 (layer top_placement)
    (width 0.0) (fill true) (grab_area true)
@@ -380,7 +380,7 @@
   )
  )
  (footprint 508574b3-3a20-4c18-82c5-9cb5530fed3e
-  (name "12x12mm_Copper")
+  (name "12x12mm Copper")
   (description "")
   (polygon 6caa696d-ca75-4de3-b93b-1cbdc91270b6 (layer top_cu)
    (width 0.0) (fill true) (grab_area true)
@@ -504,7 +504,7 @@
   )
  )
  (footprint 9368dfad-df1b-482c-ae06-b52b729d64f3
-  (name "36x36mm_Silkscreen")
+  (name "36x36mm Silkscreen")
   (description "")
   (polygon 6caa696d-ca75-4de3-b93b-1cbdc91270b6 (layer top_placement)
    (width 0.0) (fill true) (grab_area true)

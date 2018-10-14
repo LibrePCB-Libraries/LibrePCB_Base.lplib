@@ -10,7 +10,7 @@
  (pad b51307ce-0811-472d-a861-a27a11a2a5ac (name "1"))
  (pad e23a4019-32f3-401a-a8d7-b3f6ce2ed606 (name "2"))
  (footprint 3d96c7cf-9fb8-471d-85ff-55dd8724f853
-  (name "Horizontal_12.7mm")
+  (name "Horizontal 12.7mm")
   (description "")
   (pad b51307ce-0811-472d-a861-a27a11a2a5ac (side tht) (shape octagon)
    (position -6.35 0.0) (rotation 0.0) (size 1.6256 1.6256) (drill 0.8128)
@@ -136,7 +136,7 @@
   )
  )
  (footprint 2901d0f1-b5b9-4beb-a6b4-788c479cfbec
-  (name "Horizontal_10.16mm")
+  (name "Horizontal 10.16mm")
   (description "")
   (pad b51307ce-0811-472d-a861-a27a11a2a5ac (side tht) (shape octagon)
    (position -5.08 0.0) (rotation 0.0) (size 1.6256 1.6256) (drill 0.8128)
@@ -262,7 +262,7 @@
   )
  )
  (footprint 53554bd4-b930-44e1-bb96-558e6040e9a7
-  (name "Vertical_2.54mm")
+  (name "Vertical 2.54mm")
   (description "")
   (pad b51307ce-0811-472d-a861-a27a11a2a5ac (side tht) (shape octagon)
    (position -1.27 0.0) (rotation 0.0) (size 1.6256 1.6256) (drill 0.8128)
