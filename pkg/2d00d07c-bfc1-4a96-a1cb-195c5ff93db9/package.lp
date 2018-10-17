@@ -7,8 +7,8 @@
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (category a20f0330-06d3-4bc2-a1fa-f8577deb6770)
- (pad 79ee45af-e972-4d1d-8866-88585eb544f9 (name "2"))
  (pad af8c5acf-1aca-4567-90cf-1de3ecb6f642 (name "1"))
+ (pad 79ee45af-e972-4d1d-8866-88585eb544f9 (name "2"))
  (footprint 75d2f5cb-4920-4f04-a83d-21bd28174f10
   (name "default")
   (description "")
