@@ -13,7 +13,7 @@
  (pad dc18d314-08ec-45f8-bd81-8b83857d1402 (name "4"))
  (pad a837e245-00a8-45f7-befe-8aaafc1001f8 (name "5"))
  (footprint 071e06d0-7e9d-4667-8a85-ab3dad74a72a
-  (name "default")
+  (name "reflow")
   (description "")
   (pad 34f43b73-db56-4649-8904-0d258eeb7bfe (side top) (shape rect)
    (position -0.9 0.75) (rotation 0.0) (size 0.6 0.6) (drill 0.0)
