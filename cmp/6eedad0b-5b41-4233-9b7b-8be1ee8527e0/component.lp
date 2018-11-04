@@ -1,6 +1,6 @@
 (librepcb_component 6eedad0b-5b41-4233-9b7b-8be1ee8527e0
- (name "Momentary switch, open")
- (description "A momentary switch, open by default.")
+ (name "Momentary Switch NO")
+ (description "A momentary switch, normally open.")
  (keywords "switch,push,momentary")
  (author "Danilo B.")
  (version "0.1")

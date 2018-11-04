@@ -1,6 +1,6 @@
 (librepcb_component 403ed853-7f13-44b6-9325-6579c04f353a
- (name "Momentary switch, closed")
- (description "A momentary switch, closed by default.")
+ (name "Momentary Switch NC")
+ (description "A momentary switch, normally closed.")
  (keywords "switch,push,momentary")
  (author "Danilo B.")
  (version "0.1")
