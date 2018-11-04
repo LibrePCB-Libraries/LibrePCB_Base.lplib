@@ -8,7 +8,7 @@
  (deprecated false)
  (category e29f0cb3-ef6d-4203-b854-d75150cbae0b)
  (schematic_only false)
- (default_value "")
+ (default_value "{{PARTNUMBER or DEVICE}}")
  (prefix "S")
  (signal 4c215f30-3492-4a32-94d3-7f3541afb7db (name "2") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
