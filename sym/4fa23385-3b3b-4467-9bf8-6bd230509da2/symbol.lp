@@ -1,7 +1,7 @@
 (librepcb_symbol 4fa23385-3b3b-4467-9bf8-6bd230509da2
- (name "Momentary Switch NO")
- (description "A momentary switch, normally open.")
- (keywords "switch,push,momentary")
+ (name "Pushbutton Momentary NO")
+ (description "A momentary push button, normally open (make).")
+ (keywords "switch,push,pushbutton,momentary,no,make")
  (author "Danilo B.")
  (version "0.1")
  (created 2018-11-01T14:35:25Z)

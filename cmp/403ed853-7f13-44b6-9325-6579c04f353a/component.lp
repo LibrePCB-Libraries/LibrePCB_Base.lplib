@@ -1,7 +1,7 @@
 (librepcb_component 403ed853-7f13-44b6-9325-6579c04f353a
- (name "Momentary Switch NC")
- (description "A momentary switch, normally closed.")
- (keywords "switch,push,momentary")
+ (name "Pushbutton Momentary NC")
+ (description "A momentary push button, normally closed (break).")
+ (keywords "switch,push,pushbutton,momentary,nc,make")
  (author "Danilo B.")
  (version "0.1")
  (created 2018-11-01T19:04:46Z)
