@@ -1,10 +1,10 @@
 (librepcb_package 384559f4-f261-451e-b66d-40df1fd9cec1
  (name "DFN50P250X200X75-6")
- (description "6-pin Dual Flat No-Lead package (DFN), standardized by JEDEC MO-229F.\n\nPitch: 0.50 mm\nNominal width: 2.00 mm\nNominal length: 2.50 mm\nHeight: 0.80mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
+ (description "6-pin Dual Flat No-Lead package (DFN), standardized by JEDEC MO-229F.\n\nPitch: 0.50 mm\nNominal width: 2.00 mm\nNominal length: 2.50 mm\nHeight: 0.75mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
  (keywords "dfn6,dfn,dual-flat no-leads,mo-229f,w2520d-2,wdcd-2")
  (author "Hannes Badertscher")
  (version "0.1")
- (created 2018-12-18T05:56:30Z)
+ (created 2019-01-17T06:11:43Z)
  (deprecated false)
  (category 88cbb15c-2b69-4612-8764-c5d323f88f13)
  (pad be0ea31a-11d4-4015-8fba-6ea38b51ad63 (name "1"))

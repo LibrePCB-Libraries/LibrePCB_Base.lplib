@@ -1,10 +1,10 @@
 (librepcb_package c9de6ffe-b57e-4ef6-b5f7-d716efbff551
  (name "DFN80P200X250X95-4")
- (description "4-pin Dual Flat No-Lead package (DFN), standardized by JEDEC MO-229F.\n\nPitch: 0.80 mm\nNominal width: 2.50 mm\nNominal length: 2.00 mm\nHeight: 1.00mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
+ (description "4-pin Dual Flat No-Lead package (DFN), standardized by JEDEC MO-229F.\n\nPitch: 0.80 mm\nNominal width: 2.50 mm\nNominal length: 2.00 mm\nHeight: 0.95mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
  (keywords "dfn4,dfn,dual-flat no-leads,mo-229f,v2025b,vcdb")
  (author "Hannes Badertscher")
  (version "0.1")
- (created 2018-12-18T05:56:30Z)
+ (created 2019-01-17T06:11:43Z)
  (deprecated false)
  (category 88cbb15c-2b69-4612-8764-c5d323f88f13)
  (pad 286fbad4-0d3a-4688-aaff-6f59884bdeea (name "1"))

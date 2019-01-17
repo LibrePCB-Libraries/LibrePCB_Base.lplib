@@ -1,10 +1,10 @@
 (librepcb_package 90e45f52-1970-4347-bb1b-9d0e843ae6e9
  (name "DFN50P250X300X75-8T150X120")
- (description "8-pin Dual Flat No-Lead package (DFN), standardized by JEDEC MO-229F.\n\nPitch: 0.50 mm\nNominal width: 3.00 mm\nNominal length: 2.50 mm\nHeight: 0.80mm\nExposed Pad: 1.50 x 1.20 mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
+ (description "8-pin Dual Flat No-Lead package (DFN), standardized by JEDEC MO-229F.\n\nPitch: 0.50 mm\nNominal width: 3.00 mm\nNominal length: 2.50 mm\nHeight: 0.75mm\nExposed Pad: 1.50 x 1.20 mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
  (keywords "dfn8,dfn,dual-flat no-leads,mo-229f,w2530d,wded")
  (author "Hannes Badertscher")
  (version "0.1")
- (created 2018-12-18T05:56:30Z)
+ (created 2019-01-17T06:11:43Z)
  (deprecated false)
  (category 88cbb15c-2b69-4612-8764-c5d323f88f13)
  (pad e9e3923d-edac-4225-bd0b-92679d5c7b48 (name "1"))
