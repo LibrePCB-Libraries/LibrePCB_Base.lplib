@@ -4,7 +4,7 @@
  (keywords "soic8,so8,so,soic,small outline,smd,eiaj")
  (author "Danilo B.")
  (version "0.2")
- (created 2019-01-05T00:17:10Z)
+ (created 2018-11-10T20:32:03Z)
  (deprecated false)
  (category a074fabf-4912-4c29-bc6b-451bf43c2193)
  (pad abfdf5d0-032e-43ad-8e61-c4024e933b05 (name "1"))

@@ -4,7 +4,7 @@
  (keywords "soic22,so22,so,soic,small outline,smd,eiaj")
  (author "Danilo B.")
  (version "0.2")
- (created 2019-01-05T00:17:10Z)
+ (created 2018-11-10T20:32:03Z)
  (deprecated false)
  (category a074fabf-4912-4c29-bc6b-451bf43c2193)
  (pad 39d19dac-4af0-4d51-9a4a-0677bfd421b8 (name "1"))

@@ -4,7 +4,7 @@
  (keywords "soic32,so32,so,soic,small outline,smd,jedec")
  (author "Danilo B.")
  (version "0.2")
- (created 2019-01-05T00:17:10Z)
+ (created 2018-11-10T20:32:03Z)
  (deprecated false)
  (category a074fabf-4912-4c29-bc6b-451bf43c2193)
  (pad 3434389b-27cb-4226-bcfd-6e19f2098923 (name "1"))

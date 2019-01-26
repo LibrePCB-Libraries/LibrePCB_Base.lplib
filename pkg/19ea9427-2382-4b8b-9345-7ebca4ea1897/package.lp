@@ -4,7 +4,7 @@
  (keywords "soic12,so12,so,soic,small outline,smd,eiaj")
  (author "Danilo B.")
  (version "0.2")
- (created 2019-01-05T00:17:10Z)
+ (created 2018-11-10T20:32:03Z)
  (deprecated false)
  (category a074fabf-4912-4c29-bc6b-451bf43c2193)
  (pad 060a4dd3-e31f-4137-92e5-a8a92e9baafc (name "1"))

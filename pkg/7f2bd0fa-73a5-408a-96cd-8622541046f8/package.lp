@@ -4,7 +4,7 @@
  (keywords "soic16,so16,so,soic,small outline,smd,eiaj")
  (author "Danilo B.")
  (version "0.2")
- (created 2019-01-05T00:17:10Z)
+ (created 2018-11-10T20:32:03Z)
  (deprecated false)
  (category a074fabf-4912-4c29-bc6b-451bf43c2193)
  (pad 7903f948-b27e-4f47-93c3-5e9027c849be (name "1"))
