@@ -1,6 +1,6 @@
 (librepcb_package 27043725-991d-42ed-badb-77c3f2a6d23a
  (name "TQFP65P600X600X100-20")
- (description "20-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.65 mm\nBody size: 4.0x4.0 mm\nLead span: 6.0x6.0 mm\nMax height: 1.0 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "20-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.65 mm\nBody size: 4.0x4.0 mm\nLead span: 6.0x6.0 mm\nNominal height: 1.0 mm\nMax height: 1.2 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "tqfp,aka")
  (author "Danilo B.")
  (version "0.3")

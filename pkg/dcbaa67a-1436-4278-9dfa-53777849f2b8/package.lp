@@ -1,6 +1,6 @@
 (librepcb_package dcbaa67a-1436-4278-9dfa-53777849f2b8
  (name "TQFP40P2200X2200X100-176")
- (description "176-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.4 mm\nBody size: 20.0x20.0 mm\nLead span: 22.0x22.0 mm\nMax height: 1.0 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "176-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.4 mm\nBody size: 20.0x20.0 mm\nLead span: 22.0x22.0 mm\nNominal height: 1.0 mm\nMax height: 1.2 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "tqfp,afc")
  (author "Danilo B.")
  (version "0.3")

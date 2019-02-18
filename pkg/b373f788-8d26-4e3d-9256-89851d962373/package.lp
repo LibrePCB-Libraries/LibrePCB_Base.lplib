@@ -1,6 +1,6 @@
 (librepcb_package b373f788-8d26-4e3d-9256-89851d962373
  (name "LQFP80P1200X1200X140-44")
- (description "44-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.8 mm\nBody size: 10.0x10.0 mm\nLead span: 12.0x12.0 mm\nMax height: 1.4 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "44-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.8 mm\nBody size: 10.0x10.0 mm\nLead span: 12.0x12.0 mm\nNominal height: 1.4 mm\nMax height: 1.6 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "lqfp,bcb")
  (author "Danilo B.")
  (version "0.3")

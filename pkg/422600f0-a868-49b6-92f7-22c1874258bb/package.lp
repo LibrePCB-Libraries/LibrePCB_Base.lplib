@@ -1,6 +1,6 @@
 (librepcb_package 422600f0-a868-49b6-92f7-22c1874258bb
  (name "LQFP50P3000X3000X140-208")
- (description "208-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.5 mm\nBody size: 28.0x28.0 mm\nLead span: 30.0x30.0 mm\nMax height: 1.4 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "208-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.5 mm\nBody size: 28.0x28.0 mm\nLead span: 30.0x30.0 mm\nNominal height: 1.4 mm\nMax height: 1.6 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "lqfp,bjb")
  (author "Danilo B.")
  (version "0.3")

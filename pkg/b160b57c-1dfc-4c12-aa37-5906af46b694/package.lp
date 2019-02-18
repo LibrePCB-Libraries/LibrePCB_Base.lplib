@@ -1,6 +1,6 @@
 (librepcb_package b160b57c-1dfc-4c12-aa37-5906af46b694
  (name "LQFP65P3000X3000X140-160")
- (description "160-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.65 mm\nBody size: 28.0x28.0 mm\nLead span: 30.0x30.0 mm\nMax height: 1.4 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "160-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.65 mm\nBody size: 28.0x28.0 mm\nLead span: 30.0x30.0 mm\nNominal height: 1.4 mm\nMax height: 1.6 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "lqfp,bja")
  (author "Danilo B.")
  (version "0.3")

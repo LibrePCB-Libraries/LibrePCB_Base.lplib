@@ -1,6 +1,6 @@
 (librepcb_package 3951c02f-44c9-4d0c-8314-44edb11ad16b
  (name "LQFP65P2200X2200X140-112")
- (description "112-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.65 mm\nBody size: 20.0x20.0 mm\nLead span: 22.0x22.0 mm\nMax height: 1.4 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "112-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.65 mm\nBody size: 20.0x20.0 mm\nLead span: 22.0x22.0 mm\nNominal height: 1.4 mm\nMax height: 1.6 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "lqfp,bfa")
  (author "Danilo B.")
  (version "0.3")

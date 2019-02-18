@@ -1,6 +1,6 @@
 (librepcb_package 8192ba89-626f-4dbe-b178-c55872a6f340
  (name "TQFP100P1400X1400X100-44")
- (description "44-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 1.0 mm\nBody size: 12.0x12.0 mm\nLead span: 14.0x14.0 mm\nMax height: 1.0 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "44-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 1.0 mm\nBody size: 12.0x12.0 mm\nLead span: 14.0x14.0 mm\nNominal height: 1.0 mm\nMax height: 1.2 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "tqfp,ada")
  (author "Danilo B.")
  (version "0.3")

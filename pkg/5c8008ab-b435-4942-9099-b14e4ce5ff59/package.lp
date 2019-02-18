@@ -1,6 +1,6 @@
 (librepcb_package 5c8008ab-b435-4942-9099-b14e4ce5ff59
  (name "TQFP50P700X700X100-32")
- (description "32-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.5 mm\nBody size: 5.0x5.0 mm\nLead span: 7.0x7.0 mm\nMax height: 1.0 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "32-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.5 mm\nBody size: 5.0x5.0 mm\nLead span: 7.0x7.0 mm\nNominal height: 1.0 mm\nMax height: 1.2 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "tqfp,aaa")
  (author "Danilo B.")
  (version "0.3")

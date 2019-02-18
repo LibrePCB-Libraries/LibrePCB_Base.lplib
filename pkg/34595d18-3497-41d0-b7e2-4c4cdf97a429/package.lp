@@ -1,6 +1,6 @@
 (librepcb_package 34595d18-3497-41d0-b7e2-4c4cdf97a429
  (name "TQFP40P700X700X100-40")
- (description "40-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.4 mm\nBody size: 5.0x5.0 mm\nLead span: 7.0x7.0 mm\nMax height: 1.0 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "40-pin Thin Profile Quad Flat Package (TQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.4 mm\nBody size: 5.0x5.0 mm\nLead span: 7.0x7.0 mm\nNominal height: 1.0 mm\nMax height: 1.2 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "tqfp,aab")
  (author "Danilo B.")
  (version "0.3")

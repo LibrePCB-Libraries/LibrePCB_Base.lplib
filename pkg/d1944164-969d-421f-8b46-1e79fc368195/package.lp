@@ -1,6 +1,6 @@
 (librepcb_package d1944164-969d-421f-8b46-1e79fc368195
  (name "LQFP80P900X900X140-32")
- (description "32-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.8 mm\nBody size: 7.0x7.0 mm\nLead span: 9.0x9.0 mm\nMax height: 1.4 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
+ (description "32-pin Low Profile Quad Flat Package (LQFP), standardized by JEDEC in MS-026.\n\nPitch: 0.8 mm\nBody size: 7.0x7.0 mm\nLead span: 9.0x9.0 mm\nNominal height: 1.4 mm\nMax height: 1.6 mm\n\nGenerated with librepcb-parts-generator (generate_qfp.py)")
  (keywords "lqfp,bba")
  (author "Danilo B.")
  (version "0.3")
