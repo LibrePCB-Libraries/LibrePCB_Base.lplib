@@ -1,0 +1,25 @@
+os: linux
+dist: xenial
+language: minimal
+
+addons:
+  apt:
+    packages:
+      - xvfb
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+
+env:
+  CLI_VERSION: "nightly"
+
+install:
+  - wget -O ./librepcb-cli "https://download.librepcb.org/nightly_builds/master/librepcb-cli-$CLI_VERSION-linux-x86_64.AppImage"
+  - chmod a+x ./librepcb-cli
+  - xvfb-run -a ./librepcb-cli --version
+
+script:
+  - xvfb-run -a ./librepcb-cli open-library --all --save .
+  - git diff --exit-code  # fail if there are local changes
