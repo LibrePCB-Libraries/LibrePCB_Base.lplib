@@ -1,0 +1,10 @@
+(librepcb_component_category f4bfde12-f0ad-4040-9713-f36cce902707
+ (name "RF Connectors")
+ (description "Connector for antennas, for example SMA, BNC or U.FL.")
+ (keywords "rf,connector,antenna,coax,coaxial")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-07-13T22:54:04Z)
+ (deprecated false)
+ (parent d0618c29-0436-42da-a388-fdadf7b23892)
+)
