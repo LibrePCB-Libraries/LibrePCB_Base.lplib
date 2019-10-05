@@ -1,0 +1,10 @@
+(librepcb_package_category 47aba9a6-ca4d-4a42-be2e-1726ef204446
+ (name "caBGA")
+ (description "")
+ (keywords "")
+ (author "ouabacheDesignWorks")
+ (version "0.1")
+ (created 2019-10-05T15:33:36Z)
+ (deprecated false)
+ (parent a1216e37-110e-4abc-b896-4b74fe38684c)
+)

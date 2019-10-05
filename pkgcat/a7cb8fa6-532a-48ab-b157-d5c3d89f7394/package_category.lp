@@ -1,0 +1,10 @@
+(librepcb_package_category a7cb8fa6-532a-48ab-b157-d5c3d89f7394
+ (name "ucBGA")
+ (description "")
+ (keywords "")
+ (author "ouabacheDesignWorks")
+ (version "0.1")
+ (created 2019-10-05T15:34:06Z)
+ (deprecated false)
+ (parent a1216e37-110e-4abc-b896-4b74fe38684c)
+)

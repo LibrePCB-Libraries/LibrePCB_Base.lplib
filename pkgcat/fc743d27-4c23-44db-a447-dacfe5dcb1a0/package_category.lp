@@ -1,0 +1,10 @@
+(librepcb_package_category fc743d27-4c23-44db-a447-dacfe5dcb1a0
+ (name "csBGA")
+ (description "")
+ (keywords "")
+ (author "ouabacheDesignWorks")
+ (version "0.1")
+ (created 2019-10-05T15:34:32Z)
+ (deprecated false)
+ (parent a1216e37-110e-4abc-b896-4b74fe38684c)
+)
