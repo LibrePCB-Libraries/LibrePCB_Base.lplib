@@ -1,0 +1,10 @@
+(librepcb_component_category 0d3a9561-9a14-4622-98b2-d787b8b7478c
+ (name "Nixie Tubes")
+ (description "")
+ (keywords "nixie,tubes,indicator")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-09-23T19:57:27Z)
+ (deprecated false)
+ (parent 798db79a-f83e-49c5-bc4c-33e77c8501d6)
+)
