@@ -3,7 +3,7 @@
  (description "")
  (keywords "schematic,frame,sheet,drawing")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2015-03-01T20:00:00Z)
  (deprecated false)
  (category e0702c57-f31f-497d-ae1e-e31c4017f3c0)
