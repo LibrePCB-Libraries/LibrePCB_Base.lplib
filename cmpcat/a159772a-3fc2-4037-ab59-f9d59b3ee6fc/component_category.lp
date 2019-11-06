@@ -1,0 +1,10 @@
+(librepcb_component_category a159772a-3fc2-4037-ab59-f9d59b3ee6fc
+ (name "Encoders")
+ (description "")
+ (keywords "")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-08-12T18:59:26Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
