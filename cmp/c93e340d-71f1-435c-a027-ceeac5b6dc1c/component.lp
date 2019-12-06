@@ -1,5 +1,5 @@
 (librepcb_component c93e340d-71f1-435c-a027-ceeac5b6dc1c
- (name "Switch DPDT")
+ (name "Switch DPDT 2-Position")
  (description "Double-pole double-throw switch with 6 terminals.")
  (keywords "switch,dpdt,double-pole,double-throw")
  (author "Danilo Bargen")
