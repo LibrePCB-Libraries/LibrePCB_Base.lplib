@@ -1,5 +1,5 @@
 (librepcb_component 20f51f1d-ba6d-4319-961e-85645888661f
- (name "Suppressor Diode Bidirectional Dual In Series")
+ (name "Suppressor Diode Bidirectional Dual")
  (description "Two bidirectional suppressor diodes in series, with 3 pins.")
  (keywords "suppressor,tvs,diode,dual")
  (author "U. Bruhin")
