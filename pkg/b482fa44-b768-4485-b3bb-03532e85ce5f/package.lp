@@ -5,7 +5,7 @@
  (author "Danilo B.")
  (version "0.1")
  (created 2018-11-04T23:13:00Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category edc63ee6-ea87-495d-a6b9-54536fe8b1f9)
  (assembly_type auto)
