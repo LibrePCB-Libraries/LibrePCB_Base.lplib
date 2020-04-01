@@ -1,5 +1,5 @@
 (librepcb_symbol a0653c9b-12f9-4eec-8c25-9e3f24c08245
- (name "RES_NETWORK_8_US")
+ (name "Resistor Network 8x US")
  (description "created from file---  ./src_files/RES_NETWORK_8_US.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "resistor,resistance,network")
  (author "John Eaton")

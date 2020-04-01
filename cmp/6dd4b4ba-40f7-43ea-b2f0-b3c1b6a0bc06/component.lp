@@ -1,5 +1,5 @@
 (librepcb_component 6dd4b4ba-40f7-43ea-b2f0-b3c1b6a0bc06
- (name "Resistor Array 8")
+ (name "Resistor Array 8x")
  (description "")
  (keywords "")
  (author "John Eaton")

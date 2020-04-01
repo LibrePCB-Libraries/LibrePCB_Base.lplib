@@ -1,5 +1,5 @@
 (librepcb_component a20f34a4-d371-4e4d-af8d-43630e0a7d12
- (name "Resistor Network 8")
+ (name "Resistor Network 8x")
  (description "")
  (keywords "")
  (author "John Eaton")
