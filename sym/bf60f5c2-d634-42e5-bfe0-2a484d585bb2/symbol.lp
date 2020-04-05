@@ -1,6 +1,6 @@
 (librepcb_symbol bf60f5c2-d634-42e5-bfe0-2a484d585bb2
  (name "Resistor Array 8x US")
- (description "created from file---  ./src_files/RES_ARRAY_8_US.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "Resistor American (IEEE 315)\ncreated from file---  ./src_files/RES_ARRAY_8_US.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "resistor,resistance,array")
  (author "John Eaton")
  (version "0.1")

@@ -1,6 +1,6 @@
 (librepcb_symbol 07adeccc-5c7c-4c15-b922-c10cfa8dcf06
  (name "Resistor Array 8x EU")
- (description "created from file---  ./src_files/RES_ARRAY_8_EUR.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
+ (description "Resistor European (IEC 60617)\ncreated from file---  ./src_files/RES_ARRAY_8_EUR.csv.\nGenerated with librepcb-parts-generator (generate_logic_sym.py)")
  (keywords "resistor,resistance,array")
  (author "John Eaton")
  (version "0.1")
@@ -72,7 +72,7 @@
   (vertex (position 3.08 17.78) (angle 0.0))
  )
  (polygon b77a5f5c-c93c-4b38-a17a-3bf4c1367261 (layer sym_outlines)
-  (width 0.254) (fill true) (grab_area false)
+  (width 0.254) (fill false) (grab_area false)
   (vertex (position -5.08 12.7) (angle 0.0))
   (vertex (position -3.08 12.7) (angle 0.0))
   (vertex (position -3.08 11.684) (angle 0.0))

@@ -1,7 +1,7 @@
 (librepcb_component 6dd4b4ba-40f7-43ea-b2f0-b3c1b6a0bc06
  (name "Resistor Array 8x")
- (description "")
- (keywords "")
+ (description "Resistor Array")
+ (keywords "resistor,restance")
  (author "John Eaton")
  (version "0.1")
  (created 2020-04-01T16:53:00Z)
