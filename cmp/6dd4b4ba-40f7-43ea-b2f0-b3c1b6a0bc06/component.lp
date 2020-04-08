@@ -58,7 +58,7 @@
  (signal 5ac2dcbf-8680-4f72-b647-059c89466b25 (name "7-2") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (variant 521add3a-6769-4670-a72c-3bce4103ce3c (norm "")
+ (variant 521add3a-6769-4670-a72c-3bce4103ce3c (norm "IEC 60617")
   (name "European")
   (description "")
   (gate 5eaecf73-1b6e-4876-aa90-97b894c17aaa
@@ -82,8 +82,8 @@
    (pin fe1a242f-cb6e-4875-8400-06e465519c1b (signal c558d950-c361-420a-a706-841453d8904a) (text none))
   )
  )
- (variant 424dfff9-3c1f-4e52-be9f-5379792e627d (norm "")
-  (name "US")
+ (variant 424dfff9-3c1f-4e52-be9f-5379792e627d (norm "IEEE 315")
+  (name "American")
   (description "")
   (gate da03b0e9-3533-4d38-9438-7bf26ff37458
    (symbol bf60f5c2-d634-42e5-bfe0-2a484d585bb2)
@@ -106,7 +106,7 @@
    (pin fea84313-fbd4-4bec-b4e7-50b66358ab83 (signal 828c7abb-5684-4ce1-9dbd-5da1a97eda55) (text none))
   )
  )
- (variant 8867321e-71cb-437a-9d64-d5aca5c494aa (norm "")
+ (variant 8867321e-71cb-437a-9d64-d5aca5c494aa (norm "IEC 60617")
   (name "Split European")
   (description "")
   (gate 6dbfaba5-2baa-4eb4-b239-20f47d23f1c7
@@ -158,8 +158,8 @@
    (pin 2e4f8b10-ad5a-443e-b408-e183efaa4758 (signal 28b97153-1f42-4c0a-9e48-db15192d2c4f) (text none))
   )
  )
- (variant 2ec8199c-a908-4716-8c42-f52d5d34a685 (norm "")
-  (name "Split US")
+ (variant 2ec8199c-a908-4716-8c42-f52d5d34a685 (norm "IEEE 315")
+  (name "Split American")
   (description "")
   (gate 3c1053a2-37e4-4cf2-92ea-98410f64277a
    (symbol 193ef70d-8dab-4a6c-a672-274c5bf09b68)
