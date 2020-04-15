@@ -1,7 +1,7 @@
 (librepcb_symbol 60f07825-167e-463c-99c3-e279c19e742a
  (name "Diode Bridge")
  (description "Full wave rectifier")
- (keywords "")
+ (keywords "diode,bride,full wave rectifier")
  (author "John Eaton")
  (version "0.1")
  (created 2020-04-14T23:48:40Z)
