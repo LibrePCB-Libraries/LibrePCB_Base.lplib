@@ -1,0 +1,10 @@
+(librepcb_component_category 38b3555a-bfea-4422-8d01-d4f2f94b1192
+ (name "Supervisors")
+ (description "Voltage supervisors, reset monitors, watchdog circuits, etc")
+ (keywords "supervisor,watchdog,reset,monitor")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2020-06-08T21:05:04Z)
+ (deprecated false)
+ (parent c6be465e-4086-4785-9437-8ec0a76689b3)
+)
