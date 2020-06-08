@@ -1,0 +1,10 @@
+(librepcb_component_category c227644e-1d75-442d-8cd8-185b1e4e64dd
+ (name "Particle and Dust Sensors")
+ (description "")
+ (keywords "particle,particulate,matter,dust")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2020-06-08T21:02:00Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
