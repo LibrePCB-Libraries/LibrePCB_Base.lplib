@@ -1,0 +1,10 @@
+(librepcb_package_category 50f423d8-486c-43ff-9a9e-723e0fd7dcde
+ (name "Electromechanical")
+ (description "")
+ (keywords "")
+ (author "J. R. Schmid")
+ (version "0.1")
+ (created 2020-02-01T20:02:49Z)
+ (deprecated false)
+ (parent none)
+)
