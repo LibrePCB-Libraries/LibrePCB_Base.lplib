@@ -8,7 +8,7 @@
  (deprecated false)
  (category 1039f038-20a6-4bfe-89c1-99f34fbb45bd)
  (schematic_only false)
- (default_value "{{PARTNUMBER or DEVICE}}")
+ (default_value "{{RESISTANCE}}")
  (prefix "RT")
  (attribute "RESISTANCE" (type resistance) (unit kiloohm) (value ""))
  (signal 6996c9c3-b8d9-4538-a00c-07899c55dd5f (name "2") (role passive)
