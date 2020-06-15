@@ -1,5 +1,5 @@
 (librepcb_device b4e41974-877a-4dfe-a3b1-f7782ee72e4b
- (name "Thermistor")
+ (name "Thermistor NTC 0805")
  (description "")
  (keywords "")
  (author "J. R. Schmid")
