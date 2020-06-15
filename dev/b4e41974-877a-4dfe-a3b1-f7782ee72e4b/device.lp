@@ -1,6 +1,6 @@
 (librepcb_device b4e41974-877a-4dfe-a3b1-f7782ee72e4b
- (name "Thermistor NTC 0805")
- (description "")
+ (name "NCP21TTRRROIIPP (NTC Thermistors 0805)")
+ (description "https://www.mouser.de/datasheet/2/281/r44e-522712.pdf")
  (keywords "")
  (author "J. R. Schmid")
  (version "0.1")
