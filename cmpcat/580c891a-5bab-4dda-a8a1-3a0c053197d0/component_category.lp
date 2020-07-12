@@ -1,0 +1,10 @@
+(librepcb_component_category 580c891a-5bab-4dda-a8a1-3a0c053197d0
+ (name "Hall Sensors")
+ (description "A Hall effect sensor measures the magnetic field strength.")
+ (keywords "hall")
+ (author "Luz")
+ (version "0.1")
+ (created 2020-07-12T17:56:17Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
