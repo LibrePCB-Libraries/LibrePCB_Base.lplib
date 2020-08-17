@@ -1,0 +1,10 @@
+(librepcb_component_category e7668045-7ac6-486f-8b32-5db48eec87dd
+ (name "Ambient Light Sensors")
+ (description "Sensors that measure visible ambient light.")
+ (keywords "ambient light,visible")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2020-08-17T20:13:01Z)
+ (deprecated false)
+ (parent 982705c8-9e88-4dab-89eb-fcea58afbeae)
+)

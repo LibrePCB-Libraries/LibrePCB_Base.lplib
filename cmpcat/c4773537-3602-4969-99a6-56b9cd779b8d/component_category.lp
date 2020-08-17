@@ -1,0 +1,10 @@
+(librepcb_component_category c4773537-3602-4969-99a6-56b9cd779b8d
+ (name "UV Sensors")
+ (description "Sensors that measure light in the ultraviolet range of the spectrum.")
+ (keywords "uv,ultraviolet")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2020-08-17T20:14:29Z)
+ (deprecated false)
+ (parent 982705c8-9e88-4dab-89eb-fcea58afbeae)
+)
