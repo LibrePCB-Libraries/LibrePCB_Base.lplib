@@ -1,7 +1,7 @@
 (librepcb_component_category 982705c8-9e88-4dab-89eb-fcea58afbeae
  (name "Optical Sensors")
  (description "Sensors that measure light.")
- (keywords "optical,light,sensor")
+ (keywords "optical,light,sensor,ir,infrared")
  (author "Danilo Bargen")
  (version "0.1")
  (created 2020-08-17T20:10:04Z)
