@@ -5,7 +5,7 @@
  (author "Danilo B.")
  (version "0.1")
  (created 2018-11-04T23:13:00Z)
- (deprecated false)
+ (deprecated true)
  (category edc63ee6-ea87-495d-a6b9-54536fe8b1f9)
  (pad 7025a6c9-a2f0-494f-8a7d-9afe83bd8d9c (name "1"))
  (pad b23ed75a-0f6e-4304-bca5-c337976ffe81 (name "2"))
