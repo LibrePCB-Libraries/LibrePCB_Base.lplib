@@ -1,0 +1,10 @@
+(librepcb_package_category 29a05fd2-9344-44d7-aa15-97c7226f9ad7
+ (name "THT LED")
+ (description "")
+ (keywords "")
+ (author "J. R. Schmid")
+ (version "0.1")
+ (created 2020-01-26T18:34:07Z)
+ (deprecated false)
+ (parent 0a8e9c33-0a23-47e0-a4a5-b1a6c1c7fa2e)
+)
