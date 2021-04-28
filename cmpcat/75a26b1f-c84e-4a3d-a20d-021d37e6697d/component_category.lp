@@ -1,0 +1,10 @@
+(librepcb_component_category 75a26b1f-c84e-4a3d-a20d-021d37e6697d
+ (name "Motors, Actuators")
+ (description "Motors and actuators.")
+ (keywords "motors,actuators")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2021-04-28T20:16:42Z)
+ (deprecated false)
+ (parent none)
+)

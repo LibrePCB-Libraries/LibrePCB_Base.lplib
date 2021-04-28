@@ -1,0 +1,10 @@
+(librepcb_component_category c1f8781f-a798-41a7-b556-49fcc9db1a71
+ (name "AC Motors")
+ (description "Alternating current motors")
+ (keywords "motors,ac")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2021-04-28T20:17:33Z)
+ (deprecated false)
+ (parent 75a26b1f-c84e-4a3d-a20d-021d37e6697d)
+)

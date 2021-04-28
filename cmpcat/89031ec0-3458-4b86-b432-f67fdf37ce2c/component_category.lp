@@ -1,0 +1,10 @@
+(librepcb_component_category 89031ec0-3458-4b86-b432-f67fdf37ce2c
+ (name "Stepper Motors")
+ (description "Stepper motors")
+ (keywords "stepper,motors")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2021-04-28T20:17:57Z)
+ (deprecated false)
+ (parent 75a26b1f-c84e-4a3d-a20d-021d37e6697d)
+)

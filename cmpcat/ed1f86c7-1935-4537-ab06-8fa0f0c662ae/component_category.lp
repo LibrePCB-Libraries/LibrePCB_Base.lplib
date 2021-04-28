@@ -1,0 +1,10 @@
+(librepcb_component_category ed1f86c7-1935-4537-ab06-8fa0f0c662ae
+ (name "DC Motors")
+ (description "Direct current motors")
+ (keywords "motors,dc")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2021-04-28T20:17:12Z)
+ (deprecated false)
+ (parent 75a26b1f-c84e-4a3d-a20d-021d37e6697d)
+)
