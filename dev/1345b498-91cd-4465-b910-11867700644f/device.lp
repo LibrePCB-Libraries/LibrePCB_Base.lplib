@@ -1,0 +1,13 @@
+(librepcb_device 1345b498-91cd-4465-b910-11867700644f
+ (name "SMD Test Point, Single")
+ (description "")
+ (keywords "")
+ (author "J. R. Schmid")
+ (version "0.1")
+ (created 2020-02-15T19:23:42Z)
+ (deprecated false)
+ (category 775a47bc-4bbe-471e-a9a8-86f0ca973025)
+ (component 83bcacee-53dc-4b05-993a-78168d807daf)
+ (package d62cbae1-cde9-4a36-ba01-efb536f1996a)
+ (pad 4ecb42f4-7809-40f9-8ea8-c17b5b6a0720 (signal 9ba9e119-7c12-49c6-a956-e37ea32608c1))
+)
