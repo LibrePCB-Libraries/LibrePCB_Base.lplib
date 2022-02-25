@@ -5,7 +5,7 @@
  (author "Hannes Badertscher")
  (version "0.1")
  (created 2019-11-06T05:54:26Z)
- (deprecated false)
+ (deprecated true)
  (category 88cbb15c-2b69-4612-8764-c5d323f88f13)
  (pad edac8349-be18-427f-86f6-75a201d5a648 (name "1"))
  (pad c8e35031-3458-457f-b5bb-0a40ae908ac4 (name "2"))
