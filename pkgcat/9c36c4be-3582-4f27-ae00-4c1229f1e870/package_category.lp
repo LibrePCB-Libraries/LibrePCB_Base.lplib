@@ -1,0 +1,10 @@
+(librepcb_package_category 9c36c4be-3582-4f27-ae00-4c1229f1e870
+ (name "Through-Hole LED")
+ (description "")
+ (keywords "led,tht")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2022-03-10T21:40:16Z)
+ (deprecated false)
+ (parent 0a8e9c33-0a23-47e0-a4a5-b1a6c1c7fa2e)
+)
