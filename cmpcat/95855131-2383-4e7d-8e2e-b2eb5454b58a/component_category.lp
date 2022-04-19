@@ -1,0 +1,10 @@
+(librepcb_component_category 95855131-2383-4e7d-8e2e-b2eb5454b58a
+ (name "Potentiometers")
+ (description "")
+ (keywords "")
+ (author "J. R. Schmid")
+ (version "0.1")
+ (created 2020-02-01T21:00:27Z)
+ (deprecated false)
+ (parent 8ca4f9fb-3dd3-4c1e-a097-6601b437bbc6)
+)

@@ -1,0 +1,10 @@
+(librepcb_package_category ea0635ac-2061-4dc5-8785-e4b17509e90d
+ (name "Magnetic Field Sensors")
+ (description "")
+ (keywords "")
+ (author "J. R. Schmid")
+ (version "0.1")
+ (created 2020-01-26T15:43:17Z)
+ (deprecated false)
+ (parent c6c728ae-8dc0-495e-aded-840f668416bb)
+)

@@ -1,0 +1,10 @@
+(librepcb_package_category c221df41-6dce-4d57-8f5a-eab22793644e
+ (name "Switches")
+ (description "")
+ (keywords "")
+ (author "J. R. Schmid")
+ (version "0.1")
+ (created 2020-02-01T20:10:08Z)
+ (deprecated false)
+ (parent 50f423d8-486c-43ff-9a9e-723e0fd7dcde)
+)
