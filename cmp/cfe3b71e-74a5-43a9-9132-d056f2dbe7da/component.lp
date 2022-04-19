@@ -1,5 +1,5 @@
 (librepcb_component cfe3b71e-74a5-43a9-9132-d056f2dbe7da
- (name "Switch Reed NC")
+ (name "Reed Switch NC")
  (description "Magnetic reed switch, normally closed.")
  (keywords "reed,switch,magnetic")
  (author "Danilo Bargen")

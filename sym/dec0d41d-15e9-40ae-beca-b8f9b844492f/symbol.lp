@@ -1,5 +1,5 @@
 (librepcb_symbol dec0d41d-15e9-40ae-beca-b8f9b844492f
- (name "Switch Reed NC")
+ (name "Reed Switch NC")
  (description "Magnetic reed switch, normally closed.")
  (keywords "reed,switch,magnetic")
  (author "Danilo Bargen")

@@ -1,5 +1,5 @@
 (librepcb_symbol 4666bced-42c0-4289-b97d-3ff1e839e3f5
- (name "Switch Reed NO")
+ (name "Reed Switch NO")
  (description "Magnetic reed switch, normally open.")
  (keywords "reed,switch,magnetic")
  (author "Danilo Bargen")
