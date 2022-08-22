@@ -1,5 +1,5 @@
 (librepcb_package 2d42af62-0fcb-459e-a9d5-88afa9ddaea9
- (name "LED-THT 3mm")
+ (name "LED-THT-2.54-3mm")
  (description "")
  (keywords "")
  (author "Jonathan BAUDIN")
