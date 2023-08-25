@@ -6,6 +6,7 @@
  (version "0.1")
  (created 2019-10-12T15:59:58Z)
  (deprecated false)
+ (generated_by "")
  (category e0702c57-f31f-497d-ae1e-e31c4017f3c0)
  (polygon ad16dc74-4a74-434e-8bfa-d795979f27f8 (layer sym_outlines)
   (width 0.6) (fill false) (grab_area false)
