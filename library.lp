@@ -7,4 +7,5 @@
  (created 2016-09-28T21:48:03Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/LibrePCB_Base.lplib")
+ (manufacturer "")
 )

@@ -6,6 +6,7 @@
  (version "0.2")
  (created 2018-10-10T17:01:22Z)
  (deprecated false)
+ (generated_by "")
  (category adf8d941-787c-4b02-8772-fbc0a587463d)
  (schematic_only true)
  (default_value "EARTH")

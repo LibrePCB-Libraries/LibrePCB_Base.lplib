@@ -6,6 +6,7 @@
  (version "0.2")
  (created 2015-03-08T15:39:55Z)
  (deprecated false)
+ (generated_by "")
  (category 39d4b3d6-4168-4fe2-9420-fbf7eb3ac248)
  (schematic_only false)
  (default_value "{{FREQUENCY}}")
