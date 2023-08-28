@@ -1,11 +1,11 @@
 (librepcb_package f716153f-40e1-415e-9cb6-086071ccde14
  (name "C-0504")
- (description "")
+ (description "Deprecated without replacement, please request to re-add it if needed!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:34Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)

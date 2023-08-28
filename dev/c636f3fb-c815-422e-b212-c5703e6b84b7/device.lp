@@ -1,11 +1,11 @@
 (librepcb_device c636f3fb-c815-422e-b212-c5703e6b84b7
  (name "C-1310")
- (description "")
+ (description "Deprecated without replacement, please request to re-add it if needed!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-08-13T20:22:31Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category c011cc6b-b762-498e-8494-d1994f3043cf)
  (component d167e0e3-6a92-4b76-b013-77b9c230e5f1)

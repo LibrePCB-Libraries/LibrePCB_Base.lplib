@@ -1,11 +1,11 @@
 (librepcb_device 88128b66-bb62-4964-ac98-a81e3a669940
  (name "C-4564")
- (description "")
+ (description "Duplicate, replaced by \"Capacitor 4564 (1825)\"!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-08-13T20:22:31Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category c011cc6b-b762-498e-8494-d1994f3043cf)
  (component d167e0e3-6a92-4b76-b013-77b9c230e5f1)

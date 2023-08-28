@@ -1,11 +1,11 @@
 (librepcb_package 11b7567a-b972-4c22-bd17-5b2b8e5c8e89
  (name "C-4564")
- (description "")
+ (description "Duplicate, replaced by CAPC4564!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:35Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)
