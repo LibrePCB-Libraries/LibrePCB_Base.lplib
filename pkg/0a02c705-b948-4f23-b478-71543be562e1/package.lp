@@ -1,11 +1,11 @@
 (librepcb_package 0a02c705-b948-4f23-b478-71543be562e1
  (name "C-1310")
- (description "")
+ (description "Deprecated without replacement, please request to re-add it if needed!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:34Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)

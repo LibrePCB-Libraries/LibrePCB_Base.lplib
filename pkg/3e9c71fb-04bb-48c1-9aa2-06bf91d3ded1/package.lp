@@ -1,11 +1,11 @@
 (librepcb_package 3e9c71fb-04bb-48c1-9aa2-06bf91d3ded1
  (name "C-1608")
- (description "")
+ (description "Duplicate, replaced by CAPC1608!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:34Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)

@@ -1,11 +1,11 @@
 (librepcb_device 781c74f2-a57e-4ada-96c9-1687d9ee65c0
  (name "C-1608")
- (description "")
+ (description "Duplicate, replaced by \"Capacitor 1608 (0603)\"!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-08-13T20:22:31Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category c011cc6b-b762-498e-8494-d1994f3043cf)
  (component d167e0e3-6a92-4b76-b013-77b9c230e5f1)

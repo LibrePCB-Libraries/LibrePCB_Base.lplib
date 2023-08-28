@@ -1,11 +1,11 @@
 (librepcb_device 8b42ed9a-addf-4c67-a11b-531dcd0c6a17
  (name "C-3225")
- (description "")
+ (description "Duplicate, replaced by \"Capacitor 3225 (1210)\"!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-08-13T20:22:31Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category c011cc6b-b762-498e-8494-d1994f3043cf)
  (component d167e0e3-6a92-4b76-b013-77b9c230e5f1)

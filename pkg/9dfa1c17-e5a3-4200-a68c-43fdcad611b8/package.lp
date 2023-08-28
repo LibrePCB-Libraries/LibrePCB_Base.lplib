@@ -1,11 +1,11 @@
 (librepcb_package 9dfa1c17-e5a3-4200-a68c-43fdcad611b8
  (name "C-3225")
- (description "")
+ (description "Duplicate, replaced by CAPC3225!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:35Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)

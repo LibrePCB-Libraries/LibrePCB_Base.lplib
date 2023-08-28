@@ -1,11 +1,11 @@
 (librepcb_package 1671d51f-c693-4254-af82-59e0c1789483
  (name "C-2012")
- (description "")
+ (description "Duplicate, replaced by CAPC2012!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:34Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)

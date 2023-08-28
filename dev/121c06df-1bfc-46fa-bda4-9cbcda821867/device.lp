@@ -1,11 +1,11 @@
 (librepcb_device 121c06df-1bfc-46fa-bda4-9cbcda821867
  (name "C-1005")
- (description "")
+ (description "Duplicate, replaced by \"Capacitor 1005 (0402)\"!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-08-13T20:22:31Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category c011cc6b-b762-498e-8494-d1994f3043cf)
  (component d167e0e3-6a92-4b76-b013-77b9c230e5f1)

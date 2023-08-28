@@ -1,11 +1,11 @@
 (librepcb_package 73309035-042c-4c0f-835b-2422ee596960
  (name "C-4532")
- (description "")
+ (description "Duplicate, replaced by CAPC4532!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:35Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)

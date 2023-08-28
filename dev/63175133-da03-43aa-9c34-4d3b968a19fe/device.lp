@@ -1,11 +1,11 @@
 (librepcb_device 63175133-da03-43aa-9c34-4d3b968a19fe
  (name "C-3216")
- (description "")
+ (description "Duplicate, replaced by \"Capacitor 3216 (1206)\"!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-08-13T20:22:31Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category c011cc6b-b762-498e-8494-d1994f3043cf)
  (component d167e0e3-6a92-4b76-b013-77b9c230e5f1)

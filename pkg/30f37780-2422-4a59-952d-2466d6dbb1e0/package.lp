@@ -1,11 +1,11 @@
 (librepcb_package 30f37780-2422-4a59-952d-2466d6dbb1e0
  (name "C-3216")
- (description "")
+ (description "Duplicate, replaced by CAPC3216!")
  (keywords "")
  (author "U. Bruhin")
  (version "0.2")
  (created 2015-06-21T12:37:35Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 414f873f-4099-47fd-8526-bdd8419de581)
  (assembly_type auto)
