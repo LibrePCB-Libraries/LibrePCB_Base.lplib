@@ -1,6 +1,6 @@
 (librepcb_component 984bb9b3-2d2c-44a0-8cac-478778182d78
  (name "Solder Jumper 2P")
- (description "")
+ (description "Plain copper pads close to each other to allow creating a connection between them with some soldering tin.")
  (keywords "solder,bridge,jumper")
  (author "U. Bruhin")
  (version "0.1.1")
@@ -27,4 +27,5 @@
    (pin 969e8986-bdf4-4cb7-85e4-69db111f26c4 (signal 7e8fab60-576e-4abc-b739-784c7b599b1b) (text none))
   )
  )
+ (approved empty_default_value)
 )

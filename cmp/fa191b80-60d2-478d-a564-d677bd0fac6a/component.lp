@@ -1,6 +1,6 @@
 (librepcb_component fa191b80-60d2-478d-a564-d677bd0fac6a
  (name "Solder Jumper 3P")
- (description "")
+ (description "Plain copper pads close to each other to allow creating a connection between them with some soldering tin.")
  (keywords "solder,bridge,jumper")
  (author "U. Bruhin")
  (version "0.1.1")
@@ -31,4 +31,5 @@
    (pin cb0eb4f8-8f89-4b51-91d0-c621fc14cfc6 (signal f54e08ab-7424-4db9-aee0-2f88cafceb4c) (text none))
   )
  )
+ (approved empty_default_value)
 )
