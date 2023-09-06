@@ -1,7 +1,7 @@
 (librepcb_component adc68cde-7111-49fc-a93b-13870c24883b
  (name "HD44780 Display")
  (description "Some HD44780 compatible display without backlight.")
- (keywords "")
+ (keywords "hitachi,lcd,character lcd")
  (author "U. Bruhin")
  (version "0.1")
  (created 2023-09-06T10:46:51Z)

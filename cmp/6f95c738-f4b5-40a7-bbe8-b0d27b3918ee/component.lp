@@ -1,7 +1,7 @@
 (librepcb_component 6f95c738-f4b5-40a7-bbe8-b0d27b3918ee
- (name "HD44780 Display With Backlight")
+ (name "HD44780 Display With LED Backlight")
  (description "Some HD44780 compatible display with LED backlight.")
- (keywords "")
+ (keywords "hitachi,lcd,character lcd")
  (author "U. Bruhin")
  (version "0.1.1")
  (created 2020-02-17T21:38:58Z)
