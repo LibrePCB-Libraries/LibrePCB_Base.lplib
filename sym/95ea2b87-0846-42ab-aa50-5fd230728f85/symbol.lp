@@ -3,7 +3,7 @@
  (description "")
  (keywords "librepcb,logo")
  (author "U. Bruhin")
- (version "0.3")
+ (version "0.3.1")
  (created 2018-10-11T15:01:32Z)
  (deprecated false)
  (generated_by "")
@@ -137,5 +137,9 @@
  )
  (text d329f6c2-ff02-4751-b6cf-94804b2eadd3 (layer sym_outlines) (value "{{VALUE}}")
   (align left center) (height 4.0) (position 3.81 0.0) (rotation 0.0)
+ )
+ (approved missing_name_text)
+ (approved unusual_text_layer
+  (text d329f6c2-ff02-4751-b6cf-94804b2eadd3)
  )
 )
