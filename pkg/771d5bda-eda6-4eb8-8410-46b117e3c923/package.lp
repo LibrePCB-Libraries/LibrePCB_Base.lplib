@@ -1,7 +1,7 @@
 (librepcb_package 771d5bda-eda6-4eb8-8410-46b117e3c923
  (name "TO-92-WIDE")
- (description "Transistor outline package as specified by JEDEC TO-092, with legs bended for a larger pitch. Only use this package for parts which are sold with bend legs!")
- (keywords "to92,to-092")
+ (description "Transistor outline package as specified by JEDEC TO-092, with legs bent for a larger pitch. Only use this package for parts which are sold with bent legs!")
+ (keywords "to92,to-092,sot54,sot-54")
  (author "U. Bruhin")
  (version "0.1")
  (created 2023-09-06T19:51:54Z)

@@ -1,7 +1,7 @@
 (librepcb_package 5ee92b46-ab92-4eda-9785-99ef7a36da9f
  (name "TO-92")
- (description "Transistor outline package as specified by JEDEC TO-092 with straight (non-bend legs). For parts sold with bended legs for a larger pitch, use the \"TO-92-WIDE\" package instead!")
- (keywords "to92,to-092")
+ (description "Transistor outline package as specified by JEDEC TO-092 with straight (non-bent legs). For parts sold with bent legs for a larger pitch, use the \"TO-92-WIDE\" package instead!")
+ (keywords "to92,to-092,sot54,sot-54")
  (author "U. Bruhin")
  (version "0.1")
  (created 2023-09-06T15:15:31Z)
@@ -76,7 +76,7 @@
   )
  )
  (footprint a8705313-f284-4dc2-a80b-11dc0ae3ba6f
-  (name "Zigzac (TO-18)")
+  (name "Zigzag (TO-18)")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 858585e0-9c51-4345-875b-3aee5bad33a9 (side top) (shape roundrect)
