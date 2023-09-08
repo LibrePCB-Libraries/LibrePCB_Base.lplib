@@ -1,7 +1,7 @@
 (librepcb_symbol dfad70cd-5188-4490-ab9a-a1d586b724a8
  (name "Fiducial")
  (description "Alignment marker for PCB assembly.")
- (keywords "")
+ (keywords "pnp,assembly,alignment,marker")
  (author "U. Bruhin")
  (version "0.1")
  (created 2023-09-06T12:39:08Z)

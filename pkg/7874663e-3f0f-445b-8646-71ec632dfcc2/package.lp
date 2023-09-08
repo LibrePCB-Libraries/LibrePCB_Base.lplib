@@ -1,7 +1,7 @@
 (librepcb_package 7874663e-3f0f-445b-8646-71ec632dfcc2
  (name "FIDUCIAL")
  (description "Alignment marker for PCB assembly.")
- (keywords "")
+ (keywords "pnp,assembly,alignment,marker")
  (author "U. Bruhin")
  (version "0.1")
  (created 2023-09-06T12:43:19Z)
