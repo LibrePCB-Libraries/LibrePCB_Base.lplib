@@ -8,4 +8,6 @@ jobs:
       options: --entrypoint /bin/bash
     steps:
     - uses: actions/checkout@v1
-    - run: librepcb-cli open-library --all --strict --minify-step .
+    # Note: Temporarily removed --minify-step because of 
+    # https://github.com/LibrePCB/LibrePCB/pull/1226
+    - run: librepcb-cli open-library --all --strict .
