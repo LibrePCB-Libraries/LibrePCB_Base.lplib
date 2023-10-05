@@ -1,9 +1,9 @@
 (librepcb_device a0e021c0-90ab-4415-802e-40a847f682c8
- (name "R-THT-0207")
- (description "Generic THT 0207 resistor.")
+ (name "Resistor THT 0207")
+ (description "Generic through-hole resistor according DIN 0207.\n\nBody diameter: 2.50 mm\nBody length: 6.50 mm\nLegs diameter: 0.60 mm")
  (keywords "")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2018-10-11T23:26:25Z)
  (deprecated false)
  (generated_by "")
@@ -12,4 +12,5 @@
  (package 41a60506-8fc9-4b92-8c2d-e6463e3e88d3)
  (pad 181c5e6c-4b3c-48c8-b4d9-bb603a0f11b6 (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd))
  (pad b809afd1-3010-4dbe-96f0-0f16ee6c5fc3 (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8))
+ (approved no_parts)
 )
