@@ -12,10 +12,12 @@
  (pad f4c60adb-70ea-4e3f-9476-7caa3d907dce (name "1"))
  (pad 8915c992-a1f3-470d-960e-ed538058088b (name "2"))
  (pad e2026b5f-fb59-4755-8b1e-61e5e86d5b64 (name "3"))
+ (3d_model da60a042-718c-454b-b87d-712090c81961 (name "Wide"))
  (footprint 982651cc-2b3a-4ed1-87ff-f12042e7e9e3
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model da60a042-718c-454b-b87d-712090c81961)
   (pad dc12f168-a583-40c2-96ce-5080fb935e2d (side top) (shape roundrect)
    (position -2.54 0.0) (rotation 90.0) (size 1.5 1.05) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
@@ -85,6 +87,7 @@
   (name "compact")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model da60a042-718c-454b-b87d-712090c81961)
   (pad a40ef6fe-47cc-4e29-98e2-b09b79d07d80 (side top) (shape roundrect)
    (position -2.54 0.0) (rotation 90.0) (size 1.25 1.25) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
@@ -149,11 +152,5 @@
    (align center top) (position 0.0 -2.54) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
- )
- (approved missing_footprint_3d_model
-  (footprint 64fb8de7-1444-46a0-8d3e-e434e7f4febf)
- )
- (approved missing_footprint_3d_model
-  (footprint 982651cc-2b3a-4ed1-87ff-f12042e7e9e3)
  )
 )
