@@ -1,9 +1,9 @@
 (librepcb_device 22f0f4f1-11c1-4b5c-8ab2-86b636a74f0c
  (name "LED ⌀3.0x4.5/2.54mm Clear")
- (description "Generic through-hole LED with 3.00 mm body diameter.\n\nBody height: 4.50 mm.\nLead spacing: 2.54 mm.\nStandoff: 1.00 mm.\nBody color: Clear.\n\nGenerated with librepcb-parts-generator (generate_led.py)")
+ (description "Generic through-hole LED with 3.00 mm body diameter.\n\nBody height: 4.50 mm\nLead spacing: 2.54 mm\nStandoff: 1.00 mm\nBody color: Clear\n\nGenerated with librepcb-parts-generator (generate_led.py)")
  (keywords "led,tht")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2022-08-31T11:18:33Z)
  (deprecated false)
  (generated_by "")
