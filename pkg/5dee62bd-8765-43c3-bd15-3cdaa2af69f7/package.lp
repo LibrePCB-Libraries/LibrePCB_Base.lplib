@@ -12,10 +12,12 @@
  (pad e084a5a2-054f-4b96-9d35-e5a4a69110c9 (name "1"))
  (pad 0b7e3bae-fd35-4351-876f-73d31fc11e9a (name "2"))
  (pad 5df1620d-1a12-409c-a6dc-4ac9c3ea2160 (name "3"))
+ (3d_model bc11a112-edcc-4f7f-86fe-0bfeb1b56470 (name "SOT23-3P95_230X110L50X40"))
  (footprint dc411140-e9d3-46ad-9543-828b3da6a963
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model bc11a112-edcc-4f7f-86fe-0bfeb1b56470)
   (pad 0b7e3bae-fd35-4351-876f-73d31fc11e9a (side top) (shape roundrect)
    (position -1.1 -0.95) (rotation 0.0) (size 1.3 0.8) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
@@ -122,8 +124,5 @@
    (align center top) (position 0.0 -1.905) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
- )
- (approved missing_footprint_3d_model
-  (footprint dc411140-e9d3-46ad-9543-828b3da6a963)
  )
 )

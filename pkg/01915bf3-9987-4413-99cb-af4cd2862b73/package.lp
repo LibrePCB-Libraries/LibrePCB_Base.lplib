@@ -13,10 +13,12 @@
  (pad cbc7f3fd-e6b3-44f6-902c-c21e8fd005f7 (name "2"))
  (pad fc544f32-c578-4998-a0b9-9d4cb50a16af (name "3"))
  (pad 8456346b-c9f3-4b93-be38-27d5970e4b2e (name "4"))
+ (3d_model d8b15dc8-74ef-4399-b44c-e8c7f31edd0d (name "SOT223-4P230_700X180L175X75T175X300"))
  (footprint 9f584ac2-3089-4046-afd8-d8fabd8b11e6
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model d8b15dc8-74ef-4399-b44c-e8c7f31edd0d)
   (pad 8456346b-c9f3-4b93-be38-27d5970e4b2e (side top) (shape roundrect)
    (position 2.9 0.0) (rotation 90.0) (size 3.25 2.15) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
@@ -146,8 +148,5 @@
    (align center bottom) (position 0.0 4.445) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{NAME}}")
   )
- )
- (approved missing_footprint_3d_model
-  (footprint 9f584ac2-3089-4046-afd8-d8fabd8b11e6)
  )
 )

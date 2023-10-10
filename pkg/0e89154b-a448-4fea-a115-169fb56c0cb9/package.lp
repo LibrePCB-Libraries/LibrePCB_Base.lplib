@@ -14,10 +14,12 @@
  (pad fa0eed07-e0ca-4ed6-bb33-4c54a46bb925 (name "3"))
  (pad dc18d314-08ec-45f8-bd81-8b83857d1402 (name "4"))
  (pad a837e245-00a8-45f7-befe-8aaafc1001f8 (name "5"))
+ (3d_model 1733742c-2825-4fab-8876-2953a1e37702 (name "SOT353-5P65_210X110L42X25"))
  (footprint 071e06d0-7e9d-4667-8a85-ab3dad74a72a
   (name "reflow")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 1733742c-2825-4fab-8876-2953a1e37702)
   (pad 34f43b73-db56-4649-8904-0d258eeb7bfe (side top) (shape roundrect)
    (position -0.9 0.75) (rotation 0.0) (size 0.6 0.6) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
@@ -140,6 +142,7 @@
   (name "hand soldering")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 1733742c-2825-4fab-8876-2953a1e37702)
   (pad 34f43b73-db56-4649-8904-0d258eeb7bfe (side top) (shape roundrect)
    (position -1.1 0.75) (rotation 0.0) (size 1.0 0.6) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
@@ -257,11 +260,5 @@
    (align center top) (position 0.0 -1.905) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
- )
- (approved missing_footprint_3d_model
-  (footprint 071e06d0-7e9d-4667-8a85-ab3dad74a72a)
- )
- (approved missing_footprint_3d_model
-  (footprint b6b8935d-b11c-4c95-b843-d6b415149a20)
  )
 )
