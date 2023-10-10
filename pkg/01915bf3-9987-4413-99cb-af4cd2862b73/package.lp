@@ -1,9 +1,9 @@
 (librepcb_package 01915bf3-9987-4413-99cb-af4cd2862b73
  (name "SOT223-4P230_700X180L175X75T175X300")
- (description "SOT-223-4 package (EIAJ SC-73).\n\nPitch: 2.3mm\nLead span: 7.0mm\nHeight: max 1.8mm\nLead size: 1.75x0.75mm\nThermal tab size: 1.75x3mm")
- (keywords "sot223,sot-223,sc73,sc-73")
+ (description "SOT223-4 package as specified by JEDEC TO-261C (variation TO-261AA) / EIAJ SC-73.\n\nPitch: 2.3 mm\nLead Span: 7.0 mm\nBody Width: 3.5 mm\nBody Length: 6.5 mm\nBody Height: max 1.8 mm\nLead Size: 1.75x0.75 mm\nThermal Tab Size: 1.75x3 mm")
+ (keywords "sot223,sot-223,sc73,sc-73,to261aa,to-261aa")
  (author "Danilo Bargen, U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2019-11-14T23:33:04Z)
  (deprecated false)
  (generated_by "")

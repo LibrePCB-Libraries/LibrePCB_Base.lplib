@@ -1,9 +1,9 @@
 (librepcb_package 0e89154b-a448-4fea-a115-169fb56c0cb9
- (name "SOT353")
- (description "aka SC70-5, SC88A, TSSOP-5, UMT5\n\nhttps://en.wikipedia.org/wiki/Small-outline_transistor")
- (keywords "sot353,sc70-5,sc88a,tssop-5,umt5")
+ (name "SOT353-5P65_210X110L42X25")
+ (description "SOT353 package with 5 pins. Also known as SC70-5, SC88A, TSSOP-5, UMT5.\n\nPitch: 0.65 mm\nLead Span: 2.1 mm\nBody Width: 1.25 mm\nBody Length: 2.0 mm\nBody Height: max. 1.1 mm")
+ (keywords "sot353,sot-353,sc70-5,sc88a,tssop-5,umt5")
  (author "Danilo B., U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2018-11-01T19:29:35Z)
  (deprecated false)
  (generated_by "")
