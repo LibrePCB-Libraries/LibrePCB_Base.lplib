@@ -1,0 +1,10 @@
+(librepcb_component_category 588232c9-c053-4f7f-8ea2-ff4303adb7cb
+ (name "Joysticks")
+ (description "")
+ (keywords "")
+ (author "Carlo Stemberger")
+ (version "0.1")
+ (created 2020-04-20T05:26:36Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
