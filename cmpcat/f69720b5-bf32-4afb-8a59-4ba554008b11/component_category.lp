@@ -1,0 +1,10 @@
+(librepcb_component_category f69720b5-bf32-4afb-8a59-4ba554008b11
+ (name "I/O Expanders")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-10-16T21:58:07Z)
+ (deprecated false)
+ (parent 38665d59-1fed-4cd0-8bcd-57af52fefb29)
+)
