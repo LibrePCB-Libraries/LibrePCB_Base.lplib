@@ -1,9 +1,9 @@
 (librepcb_device a8b774c7-d868-4138-93c9-88c0c80598a1
- (name "R-THT-0204")
- (description "Generic THT 0204 resistor.")
+ (name "Resistor THT 0204")
+ (description "Generic through-hole resistor according DIN 0204.\n\nBody diameter: 1.90 mm\nBody length: 3.70 mm\nLegs diameter: 0.45 mm")
  (keywords "")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2018-10-11T23:25:16Z)
  (deprecated false)
  (generated_by "")
@@ -12,4 +12,5 @@
  (package f71d0b4f-22c4-4b4f-a288-0a8490e52e90)
  (pad 82f1cf8f-51e0-4b90-9f3f-d13a556ae73f (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd))
  (pad a1aa10e6-f0c8-4797-a8ea-22e6d0f5ea0d (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8))
+ (approved no_parts)
 )
