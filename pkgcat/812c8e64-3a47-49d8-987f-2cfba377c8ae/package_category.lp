@@ -1,0 +1,10 @@
+(librepcb_package_category 812c8e64-3a47-49d8-987f-2cfba377c8ae
+ (name "Chip Inductor")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-11-05T09:13:25Z)
+ (deprecated false)
+ (parent 63d56ec5-daf9-40b9-b8df-3831a9239df0)
+)

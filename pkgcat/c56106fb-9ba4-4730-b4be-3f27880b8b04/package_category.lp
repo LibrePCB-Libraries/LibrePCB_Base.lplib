@@ -1,0 +1,10 @@
+(librepcb_package_category c56106fb-9ba4-4730-b4be-3f27880b8b04
+ (name "Through-Hole Inductor")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-11-05T09:13:45Z)
+ (deprecated false)
+ (parent 63d56ec5-daf9-40b9-b8df-3831a9239df0)
+)
