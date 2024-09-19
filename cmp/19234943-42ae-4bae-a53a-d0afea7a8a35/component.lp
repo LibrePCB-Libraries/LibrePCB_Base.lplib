@@ -1,9 +1,9 @@
 (librepcb_component 19234943-42ae-4bae-a53a-d0afea7a8a35
  (name "Solder Jumper 2P Closed")
- (description "Plain copper pads close to each other to allow creating a connection between them with some soldering tin. Default is closes - cut to open.")
+ (description "Plain copper pads close to each other, with a thin trace connecting them. Cut the trace to open the jumper.")
  (keywords "solder,bridge,jumper")
  (author "eto-")
- (version "0.1")
+ (version "0.1.1")
  (created 2024-02-22T07:01:51Z)
  (deprecated false)
  (generated_by "")
@@ -27,4 +27,5 @@
    (pin aa045a65-3059-4ad5-9994-14ecdd3f7bf7 (signal f12884b0-1f1e-47b8-8b68-b311d06901fb) (text signal))
   )
  )
+ (approved empty_default_value)
 )

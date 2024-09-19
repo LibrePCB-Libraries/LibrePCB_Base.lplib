@@ -1,9 +1,9 @@
 (librepcb_component f9e7228a-46b9-4c70-8947-f77933727372
  (name "Solder Jumper 3P Closed")
- (description "Plain copper pads close to each other to allow creating a connection between them with some soldering tin. 1-2 connection set as default - cut to open.")
+ (description "Plain copper pads close to each other, with a thin trace connecting pads 1-2. Cut the trace to open the jumper.")
  (keywords "solder,bridge,jumper")
  (author "eto-")
- (version "0.1")
+ (version "0.1.1")
  (created 2024-02-22T07:03:59Z)
  (deprecated false)
  (generated_by "")
@@ -31,4 +31,5 @@
    (pin febf0625-50a5-4ec2-8362-01de6aa46384 (signal 29253279-ba36-4b70-9fb6-9dac5c3aced1) (text signal))
   )
  )
+ (approved empty_default_value)
 )
