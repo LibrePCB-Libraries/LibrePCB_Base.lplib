@@ -1,0 +1,10 @@
+(librepcb_component_category 6eb1e60c-9c2b-439c-a2c5-8df7edbeeb98
+ (name "Barrel Connectors (Audio, Power Jacks, ...)")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2024-11-15T08:41:58Z)
+ (deprecated false)
+ (parent d0618c29-0436-42da-a388-fdadf7b23892)
+)
