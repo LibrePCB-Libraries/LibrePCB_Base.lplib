@@ -3,7 +3,7 @@
  (description "A coil (e.g. as used in a relay).")
  (keywords "coil,solenoid")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-04-18T22:36:27Z)
  (deprecated false)
  (generated_by "")
