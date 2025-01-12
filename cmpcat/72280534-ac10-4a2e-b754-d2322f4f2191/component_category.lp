@@ -1,0 +1,10 @@
+(librepcb_component_category 72280534-ac10-4a2e-b754-d2322f4f2191
+ (name "Buzzers")
+ (description "Buzzers, Speakers, etc")
+ (keywords "buzzer")
+ (author "eto-")
+ (version "0.1")
+ (created 2025-01-04T09:58:50Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
