@@ -1,9 +1,9 @@
 (librepcb_symbol ca7218a8-66ca-441e-a1fe-4b8f7fd61658
- (name "Bridge Rectiifier US")
+ (name "Bridge Rectifier US")
  (description "Brige Rectifier, American  (IEEE 315)")
  (keywords "bridge, rectifier")
  (author "Recycled0080")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-26T05:23:15Z)
  (deprecated false)
  (generated_by "")
