@@ -1,7 +1,7 @@
 (librepcb_package 3892fd5e-b0d7-4283-a89e-b19829029b00
  (name "DFN50P200X300X90-8T145X175")
  (description "8-pin Dual Flat No-Lead package (DFN), Pitch: 0.50 mm\nNominal width: 3.00 mm\nNominal length: 2.00 mm\nHeight: 0.90mm\nExposed Pad: 1.45 x 1.75 mm\n\nGenerated with librepcb-parts-generator (generate_dfn.py)")
- (keywords "dfn8,dfn,dual flat no-leads,microchip mc")
+ (keywords "dfn8,dfn,dual flat no-leads,microchip,mc")
  (author "Hannes Badertscher")
  (version "0.2")
  (created 2020-11-01T17:32:01Z)
