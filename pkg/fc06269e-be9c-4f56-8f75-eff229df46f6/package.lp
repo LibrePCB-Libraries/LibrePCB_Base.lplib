@@ -9,6 +9,8 @@
  (generated_by "")
  (category 1d2630f1-c375-49f0-a0dc-2446735d82f4)
  (assembly_type none)
+ (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad 3b7eb039-8e68-46ee-8b49-39a9abefb6f9 (name "1"))
  (footprint 8d6b6f1f-9f66-4194-9918-6633f705881d
   (name "copper")
