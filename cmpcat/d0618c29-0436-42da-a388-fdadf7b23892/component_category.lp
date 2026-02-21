@@ -1,9 +1,10 @@
 (librepcb_component_category d0618c29-0436-42da-a388-fdadf7b23892
  (name "Connectors")
+ (name (locale "de") "Steckverbinder")
  (description "")
  (keywords "")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-10-09T22:15:57Z)
  (deprecated false)
  (parent none)

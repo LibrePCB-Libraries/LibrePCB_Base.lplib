@@ -1,10 +1,10 @@
 (librepcb_component_category 4d1c95f4-2e60-4f50-a15b-ba9186a01b1a
  (name "Diodes, Rectifiers")
- (name (locale "de_DE") "Dioden")
+ (name (locale "de") "Dioden, Gleichrichter")
  (description "")
  (keywords "diode")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2015-07-05T12:43:52Z)
  (deprecated false)
  (parent 59112789-151e-4f46-b71b-ff33d023927a)

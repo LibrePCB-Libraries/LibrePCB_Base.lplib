@@ -1,9 +1,10 @@
 (librepcb_component_category bd6346a1-5cbf-4b28-a62b-637d8e1a225d
  (name "Schematic Symbols")
+ (name (locale "de") "Schaltplansymbole")
  (description "")
  (keywords "")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-10-09T22:35:07Z)
  (deprecated false)
  (parent none)

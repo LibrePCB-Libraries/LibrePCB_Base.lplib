@@ -1,10 +1,10 @@
 (librepcb_component_category 1039f038-20a6-4bfe-89c1-99f34fbb45bd
  (name "Resistors")
- (name (locale "de_DE") "Widerstände")
+ (name (locale "de") "Widerstände")
  (description "")
  (keywords "resistor,resistance")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2015-07-05T12:43:52Z)
  (deprecated false)
  (parent 9a25af45-d6a3-4c5a-af08-d68a148e9ca0)

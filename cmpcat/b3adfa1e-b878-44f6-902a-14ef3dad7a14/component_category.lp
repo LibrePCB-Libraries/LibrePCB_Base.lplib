@@ -1,10 +1,10 @@
 (librepcb_component_category b3adfa1e-b878-44f6-902a-14ef3dad7a14
  (name "Inductors, Coils, Chokes, Filters")
- (name (locale "de_DE") "Induktivitäten / Spulen")
+ (name (locale "de") "Induktivitäten, Spulen, Filter")
  (description "")
  (keywords "inductor,inductance")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2015-07-05T12:43:52Z)
  (deprecated false)
  (parent 9a25af45-d6a3-4c5a-af08-d68a148e9ca0)

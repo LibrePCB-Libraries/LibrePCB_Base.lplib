@@ -1,9 +1,10 @@
 (librepcb_component_category b76b4ce6-4d44-4510-8e9d-688d44c697e5
  (name "Battery Holders")
+ (name (locale "de") "Batteriehalter")
  (description "")
  (keywords "")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-10-09T22:24:08Z)
  (deprecated false)
  (parent 8ca4f9fb-3dd3-4c1e-a097-6601b437bbc6)
