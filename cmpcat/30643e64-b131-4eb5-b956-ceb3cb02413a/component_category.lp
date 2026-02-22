@@ -1,9 +1,10 @@
 (librepcb_component_category 30643e64-b131-4eb5-b956-ceb3cb02413a
  (name "Voltage Regulators")
+ (name (locale "de") "Spannungsregler")
  (description "")
  (keywords "")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-10-09T22:33:44Z)
  (deprecated false)
  (parent c6be465e-4086-4785-9437-8ec0a76689b3)

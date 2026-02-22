@@ -1,10 +1,10 @@
 (librepcb_component_category e9663545-80dd-4658-9357-d4ef62e55168
  (name "Transistors, Thyristors")
- (name (locale "de_DE") "Transistoren / FETs / Diacs / Triacs")
+ (name (locale "de") "Transistoren, Thyristoren")
  (description "")
  (keywords "transistor,fet,mosfet")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2015-07-05T12:43:52Z)
  (deprecated false)
  (parent 59112789-151e-4f46-b71b-ff33d023927a)

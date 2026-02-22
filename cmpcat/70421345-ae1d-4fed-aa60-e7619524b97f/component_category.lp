@@ -1,10 +1,10 @@
 (librepcb_component_category 70421345-ae1d-4fed-aa60-e7619524b97f
  (name "LEDs")
- (name (locale "de_DE") "LEDs")
+ (name (locale "de") "LEDs")
  (description "")
  (keywords "led,light,opto")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2015-07-05T12:43:52Z)
  (deprecated false)
  (parent 798db79a-f83e-49c5-bc4c-33e77c8501d6)

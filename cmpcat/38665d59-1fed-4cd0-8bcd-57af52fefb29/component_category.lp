@@ -1,9 +1,10 @@
 (librepcb_component_category 38665d59-1fed-4cd0-8bcd-57af52fefb29
  (name "Interface")
+ (name (locale "de") "Schnittstelle")
  (description "")
  (keywords "")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-10-09T22:29:34Z)
  (deprecated false)
  (parent 8226f987-124b-4776-9084-3821dd51c272)
