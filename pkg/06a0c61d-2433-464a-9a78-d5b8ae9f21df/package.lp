@@ -3,7 +3,7 @@
  (description "64-pin Thin-Shrink Small Outline Package (TSSOP), standardized by JEDEC (MO-153), variation EF.\n\nPitch: 0.50 mm\nBody length: 17.00 mm\nBody width: 6.10 mm\nLead span: 8.10 mm\nHeight: 1.20 mm\nLead length: 1.00 mm\nLead width: 0.27 mm\n\nGenerated with librepcb-parts-generator (generate_so.py)")
  (keywords "soic64,so64,so,sop,tssop,small outline package,smd")
  (author "Danilo B.")
- (version "0.3")
+ (version "0.3.1")
  (created 2019-06-16T12:46:54Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "36-pin Plastic Shrink Small Outline Package (SSOP), standardized by JEDEC (MO-152), variation GC.\n\nPitch: 0.65 mm\nBody length: 12.50 mm\nBody width: 8.00 mm\nLead span: 10.00 mm\nHeight: 2.00 mm\nLead length: 1.00 mm\nLead width: 0.30 mm\n\nGenerated with librepcb-parts-generator (generate_so.py)")
  (keywords "soic36,so36,so,sop,ssop,small outline package,smd,jedec,mo-152")
  (author "Danilo B.")
- (version "0.2")
+ (version "0.2.1")
  (created 2019-07-21T12:55:20Z)
  (deprecated false)
  (generated_by "")
