@@ -3,7 +3,7 @@
  (description "Polarized radial electrolytic capacitor.\n\nDiameter: 16.0 mm\nHeight: 31.5 mm\nLead Spacing: 7.5 mm\nMax. Lead Diameter: 0.8 mm\n\nGenerated with librepcb-parts-generator (generate_capacitor_radial_tht.py)")
  (keywords "electrolytic,capacitor,polarized,radial,c,cap,cpol")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2019-12-29T14:14:11Z)
  (deprecated false)
  (generated_by "")
