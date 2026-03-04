@@ -3,7 +3,7 @@
  (description "Generic mounting hole for M2.5 screws, compatible with ISO7380, ISO14580 and DIN965.\n\nHole diameter: 2.70 mm\nPad diameter: 4.70 mm\n\nGenerated with librepcb-parts-generator (generate_mounting_holes.py)\n")
  (keywords "mounting,hole,pad,drill,screw,M2.5,2.7mm,4.7mm")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2025-04-09T15:07:42Z)
  (deprecated false)
  (generated_by "")
@@ -135,6 +135,7 @@
    (vertex (position 0.0 0.0) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_name_text
   (footprint 315b67a3-4f82-4051-8257-088d7ab560dd)
  )

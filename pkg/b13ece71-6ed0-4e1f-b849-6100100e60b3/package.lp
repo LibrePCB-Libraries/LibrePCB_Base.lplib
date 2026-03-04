@@ -3,7 +3,7 @@
  (description "Generic mounting hole for M6 screws, compatible with ISO7380, ISO14580 and DIN965.\n\nHole diameter: 6.40 mm\nPad diameter: 11.00 mm\n\nGenerated with librepcb-parts-generator (generate_mounting_holes.py)\n")
  (keywords "mounting,hole,pad,drill,screw,M6,6.4mm,11.0mm")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2025-04-09T15:07:42Z)
  (deprecated false)
  (generated_by "")
@@ -135,6 +135,7 @@
    (vertex (position 0.0 0.0) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_name_text
   (footprint 2cf949c1-56c9-466b-86a8-b9ba0cff1794)
  )
