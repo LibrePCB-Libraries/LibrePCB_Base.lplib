@@ -3,7 +3,7 @@
  (description "40-pin Plastic Shrink Small Outline Package (SSOP), standardized by JEDEC (MO-152), variation EC.\n\nPitch: 0.50 mm\nBody length: 11.00 mm\nBody width: 6.10 mm\nLead span: 8.10 mm\nHeight: 2.00 mm\nLead length: 1.00 mm\nLead width: 0.27 mm\n\nGenerated with librepcb-parts-generator (generate_so.py)")
  (keywords "soic40,so40,so,sop,ssop,small outline package,smd,jedec,mo-152")
  (author "Danilo B.")
- (version "0.2")
+ (version "0.2.1")
  (created 2019-07-21T12:55:20Z)
  (deprecated false)
  (generated_by "")

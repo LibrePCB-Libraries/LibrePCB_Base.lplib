@@ -3,7 +3,7 @@
  (description "40-pin Thin Small Outline Package (TSOP), standardized by JEDEC (MS-024), Type II (pins on longer side), variation DA.\n\nPitch: 1.27 mm\nBody length: 26.03 mm\nBody width: 10.16 mm\nLead span: 11.76 mm\nHeight: 1.20 mm\nLead length: 0.80 mm\nLead width: 0.41 mm\n\nGenerated with librepcb-parts-generator (generate_so.py)")
  (keywords "soic40,so40,so,sop,tsop,small outline package,smd")
  (author "Tubbles")
- (version "0.2")
+ (version "0.2.1")
  (created 2020-12-26T16:14:30Z)
  (deprecated false)
  (generated_by "")

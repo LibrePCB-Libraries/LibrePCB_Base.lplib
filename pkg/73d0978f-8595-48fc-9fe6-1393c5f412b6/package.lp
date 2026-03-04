@@ -3,7 +3,7 @@
  (description "8-pin Thin-Shrink Small Outline Package (TSSOP), standardized by JEDEC (MO-153), variation AA.\n\nPitch: 0.65 mm\nBody length: 3.00 mm\nBody width: 4.40 mm\nLead span: 6.40 mm\nHeight: 1.20 mm\nLead length: 1.00 mm\nLead width: 0.30 mm\n\nGenerated with librepcb-parts-generator (generate_so.py)")
  (keywords "soic8,so8,so,sop,tssop,small outline package,smd")
  (author "Danilo B.")
- (version "0.3")
+ (version "0.3.1")
  (created 2019-06-16T12:46:54Z)
  (deprecated false)
  (generated_by "")
