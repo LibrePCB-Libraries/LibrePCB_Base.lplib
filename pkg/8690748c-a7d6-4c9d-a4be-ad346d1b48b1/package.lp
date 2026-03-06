@@ -1,9 +1,9 @@
 (librepcb_package 8690748c-a7d6-4c9d-a4be-ad346d1b48b1
  (name "LOGO_CE")
- (description "")
+ (description "CE marking.")
  (keywords "")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-09-06T14:32:31Z)
  (deprecated false)
  (generated_by "")
@@ -371,6 +371,7 @@
    (vertex (position -8.8 -6.8) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_name_text
   (footprint 194b6105-1d62-44c1-806c-f452b79cd2a5)
  )

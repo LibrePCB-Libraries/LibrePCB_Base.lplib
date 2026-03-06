@@ -1,9 +1,9 @@
 (librepcb_package b2e2ec84-841b-4d30-b031-76324d8ac8f8
  (name "LOGO_LIBREPCB")
- (description "")
+ (description "LibrePCB logo.")
  (keywords "logo")
  (author "U. Bruhin")
- (version "0.4")
+ (version "0.4.1")
  (created 2018-10-11T15:04:52Z)
  (deprecated false)
  (generated_by "")
@@ -1331,6 +1331,7 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_name_text
   (footprint 19a6ba38-a1dd-4c97-a036-11011ef4d73d)
  )

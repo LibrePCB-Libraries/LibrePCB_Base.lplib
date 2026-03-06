@@ -3,7 +3,7 @@
  (description "Transistor outline package as specified by JEDEC TO-092, with legs bent for a larger pitch. Only use this package for parts which are sold with bent legs!")
  (keywords "to92,to-092,sot54,sot-54")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-06T19:51:54Z)
  (deprecated false)
  (generated_by "")
@@ -18,6 +18,7 @@
  (footprint 982651cc-2b3a-4ed1-87ff-f12042e7e9e3
   (name "default")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model da60a042-718c-454b-b87d-712090c81961)
   (pad dc12f168-a583-40c2-96ce-5080fb935e2d (side top) (shape roundrect)
