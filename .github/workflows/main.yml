@@ -4,8 +4,8 @@ jobs:
   check:
     runs-on: ubuntu-24.04
     container:
-      image: librepcb/librepcb-cli:2.0.0-rc1
+      image: librepcb/librepcb-cli:2.0.1
       options: --entrypoint /bin/bash
     steps:
     - uses: actions/checkout@v1
-    - run: librepcb-cli open-library --all --strict --minify-step .
+    - run: librepcb-cli open-library --all --strict --check --minify-step .
