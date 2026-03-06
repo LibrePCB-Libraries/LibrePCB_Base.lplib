@@ -3,7 +3,7 @@
  (description "Generic chip capacitor 3216 (imperial 1206).\n\nLength: 3.2mm\nWidth: 1.6mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "3216,1206,c,capacitor,chip,generic")
  (author "murray")
- (version "0.5")
+ (version "0.6")
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Generic chip capacitor 5750 (imperial 2220).\n\nLength: 5.7mm\nWidth: 5.0mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "5750,2220,c,capacitor,chip,generic")
  (author "murray")
- (version "0.5")
+ (version "0.6")
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Generic chip inductor 3225 (imperial 1210).\n\nLength: 3.2mm\nWidth: 2.5mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "3225,1210,l,inductor,ferrite,bead,chip,generic")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2023-11-05T09:15:41Z)
  (deprecated false)
  (generated_by "")

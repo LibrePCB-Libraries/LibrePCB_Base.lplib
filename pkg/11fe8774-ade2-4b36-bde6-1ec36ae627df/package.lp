@@ -3,7 +3,7 @@
  (description "Generic chip capacitor 9210 (imperial 3640).\n\nLength: 9.2mm\nWidth: 10.16mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "9210,3640,c,capacitor,chip,generic")
  (author "murray")
- (version "0.5")
+ (version "0.6")
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (generated_by "")

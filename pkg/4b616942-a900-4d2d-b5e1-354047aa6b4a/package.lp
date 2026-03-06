@@ -3,7 +3,7 @@
  (description "Generic chip capacitor 1608 (imperial 0603).\n\nLength: 1.6mm\nWidth: 0.8mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "1608,0603,c,capacitor,chip,generic")
  (author "murray")
- (version "0.5")
+ (version "0.6")
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Generic chip inductor 2520 (imperial 1008).\n\nLength: 2.5mm\nWidth: 2.0mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "2520,1008,l,inductor,ferrite,bead,chip,generic")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2023-11-05T09:15:41Z)
  (deprecated false)
  (generated_by "")

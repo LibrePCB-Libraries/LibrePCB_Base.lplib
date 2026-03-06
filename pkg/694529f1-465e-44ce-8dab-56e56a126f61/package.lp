@@ -3,7 +3,7 @@
  (description "Generic chip inductor 1005 (imperial 0402).\n\nLength: 1.0mm\nWidth: 0.5mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "1005,0402,l,inductor,ferrite,bead,chip,generic")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2023-11-05T09:15:41Z)
  (deprecated false)
  (generated_by "")

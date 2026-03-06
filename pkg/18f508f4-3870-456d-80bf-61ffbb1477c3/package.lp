@@ -3,7 +3,7 @@
  (description "Generic chip inductor 3216 (imperial 1206).\n\nLength: 3.2mm\nWidth: 1.6mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "3216,1206,l,inductor,ferrite,bead,chip,generic")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2023-11-05T09:15:41Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Generic chip inductor 0603 (imperial 0201).\n\nLength: 0.6mm\nWidth: 0.3mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "0603,0201,l,inductor,ferrite,bead,chip,generic")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2023-11-05T09:15:41Z)
  (deprecated false)
  (generated_by "")

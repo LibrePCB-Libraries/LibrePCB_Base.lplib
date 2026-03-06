@@ -3,7 +3,7 @@
  (description "Generic chip capacitor 2012 (imperial 0805).\n\nLength: 2.0mm\nWidth: 1.25mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "2012,0805,c,capacitor,chip,generic")
  (author "murray")
- (version "0.5")
+ (version "0.6")
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (generated_by "")
