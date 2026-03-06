@@ -3,7 +3,7 @@
  (description "Diode outline package as specified by JEDEC DO-204AL. Also known as DO-41.\n\nBody diameter: 2.38 mm\nBody length: 4.63 mm\nLegs diameter: 0.79 mm\n\nGenerated with librepcb-parts-generator (generate_axial_tht.py)\n")
  (keywords "do204al,do41,do-41")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-07T13:30:53Z)
  (deprecated false)
  (generated_by "")
@@ -22,6 +22,7 @@
  (footprint f3509c99-d286-4c68-8aa7-61c5c00f565c
   (name "Horizontal, 7.62mm")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 0ae375bf-3f05-4db7-ad7c-8e36c7f7442e)
   (pad 38c39cd5-3de2-4e6d-ae9c-8164f086aec6 (side top) (shape roundrect)
@@ -725,4 +726,5 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )

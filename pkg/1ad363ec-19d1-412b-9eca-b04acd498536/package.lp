@@ -3,7 +3,7 @@
  (description "Diode outline package as specified by JEDEC DO-204AR.\n\nBody diameter: 6.22 mm\nBody length: 9.39 mm\nLegs diameter: 1.27 mm\n\nGenerated with librepcb-parts-generator (generate_axial_tht.py)\n")
  (keywords "do204ar")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-07T13:30:53Z)
  (deprecated false)
  (generated_by "")
@@ -23,6 +23,7 @@
  (footprint 93f8b64d-2f79-4381-9d56-b3a0acf9223f
   (name "Horizontal, 15.24mm")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 3e169dbe-55bd-4a58-a98a-6d827ff7c5a4)
   (pad 58736b35-6241-4aea-b0d3-8c4f6bbc55d1 (side top) (shape roundrect)
@@ -824,4 +825,5 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )

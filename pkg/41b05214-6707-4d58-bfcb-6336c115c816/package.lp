@@ -3,7 +3,7 @@
  (description "Diode outline package as specified by JEDEC DO-204AC. Also known as DO-15.\n\nBody diameter: 3.10 mm\nBody length: 6.73 mm\nLegs diameter: 0.78 mm\n\nGenerated with librepcb-parts-generator (generate_axial_tht.py)\n")
  (keywords "do204ac,do15,do-15")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-07T13:30:53Z)
  (deprecated false)
  (generated_by "")
@@ -23,6 +23,7 @@
  (footprint 66c3220b-b3c7-47c9-8bc6-4db69dada97d
   (name "Horizontal, 10.16mm")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 67053010-6fe0-4341-854f-b0c9bd7bfc91)
   (pad 16b398f8-5a6c-48d2-928e-6062e5315fa4 (side top) (shape roundrect)
@@ -797,4 +798,5 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )
