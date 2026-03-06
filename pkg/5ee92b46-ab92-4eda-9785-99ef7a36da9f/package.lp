@@ -3,7 +3,7 @@
  (description "Transistor outline package as specified by JEDEC TO-092 with straight (non-bent legs). For parts sold with bent legs for a larger pitch, use the \"TO-92-WIDE\" package instead!")
  (keywords "to92,to-092,sot54,sot-54")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-06T15:15:31Z)
  (deprecated false)
  (generated_by "")
@@ -20,6 +20,7 @@
  (footprint ac5df14d-6a13-47e2-a6ca-052460d6fa2c
   (name "Straight")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model fbc9800d-3b8d-4bb7-9e38-4d08084cbc1d)
   (pad 858585e0-9c51-4345-875b-3aee5bad33a9 (side top) (shape roundrect)
@@ -84,6 +85,7 @@
  (footprint a8705313-f284-4dc2-a80b-11dc0ae3ba6f
   (name "Zigzag (TO-18)")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model e90cda22-4f59-4646-9ddf-5d4e95533bab)
   (pad 858585e0-9c51-4345-875b-3aee5bad33a9 (side top) (shape roundrect)
@@ -212,6 +214,7 @@
  (footprint 6581d814-5e13-4a11-aeec-6d768eebd69f
   (name "Wide")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model c62c01e1-eb56-4cc1-9eb3-d696075ca242)
   (pad 858585e0-9c51-4345-875b-3aee5bad33a9 (side top) (shape roundrect)
@@ -349,4 +352,5 @@
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )

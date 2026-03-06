@@ -3,7 +3,7 @@
  (description "Molded 3-lead package as specified by JEDEC TO-220AB.")
  (keywords "to220")
  (author "U. Bruhin")
- (version "0.3")
+ (version "0.3.1")
  (created 2015-12-20T22:10:44Z)
  (deprecated false)
  (generated_by "")
@@ -21,6 +21,7 @@
  (footprint 058161b2-c181-4df4-b658-ca960e140836
   (name "Vertical")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 474059df-640b-4b17-98b2-148e340a7152 (side top) (shape roundrect)
    (position 2.54 0.0) (rotation 90.0) (size 3.5 1.9) (radius 1.0)
@@ -230,6 +231,7 @@
  (footprint 19a8610a-8dc0-4924-a0e2-bc950a8ae703
   (name "Horizontal")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 474059df-640b-4b17-98b2-148e340a7152 (side top) (shape roundrect)
    (position 2.54 0.0) (rotation 90.0) (size 3.5 1.9) (radius 1.0)
@@ -798,6 +800,7 @@
    (vertex (position 0.0 16.8825) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_footprint_3d_model
   (footprint 058161b2-c181-4df4-b658-ca960e140836)
  )
@@ -813,4 +816,5 @@
  (approved missing_footprint_3d_model
   (footprint fbe8885e-f1e7-4f31-912d-e26af408c66a)
  )
+ (approved origin_not_in_center)
 )

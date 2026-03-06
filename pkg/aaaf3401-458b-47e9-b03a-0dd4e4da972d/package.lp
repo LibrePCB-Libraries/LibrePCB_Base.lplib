@@ -3,7 +3,7 @@
  (description "Open Source Hardware logo.")
  (keywords "open,source")
  (author "U. Bruhin")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-09-06T13:24:09Z)
  (deprecated false)
  (generated_by "")
@@ -740,6 +740,7 @@
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_name_text
   (footprint 3776ec32-7c26-4273-b9c7-cc45f552c938)
  )

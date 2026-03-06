@@ -3,7 +3,7 @@
  (description "3-lead molded, also known as TO126-3 or SOT-32.\nSpecified by JEDEC TO-225 and TO-126.")
  (keywords "to225,to126,sot32")
  (author "oblerion")
- (version "0.2")
+ (version "0.2.1")
  (created 2022-06-28T19:23:39Z)
  (deprecated false)
  (generated_by "")
@@ -22,6 +22,7 @@
  (footprint 5feab62a-1f24-47d9-bd1c-fd801d6b0538
   (name "Vertical")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 34d09859-83a2-480d-a241-f340e2b52ce8 (side top) (shape roundrect)
    (position -2.54 0.0) (rotation 90.0) (size 2.3 1.4) (radius 0.0)
@@ -200,6 +201,7 @@
  (footprint c66accf0-9134-43d4-9db6-c4115c446b0a
   (name "Horizontal")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 34d09859-83a2-480d-a241-f340e2b52ce8 (side top) (shape roundrect)
    (position -2.54 0.0) (rotation 90.0) (size 2.3 1.4) (radius 0.0)
@@ -341,6 +343,7 @@
  (footprint ef4a0805-c0ba-4dbf-8c26-57ac6300c8b5
   (name "Horizontal, With Hole")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad 34d09859-83a2-480d-a241-f340e2b52ce8 (side top) (shape roundrect)
    (position -2.54 0.0) (rotation 90.0) (size 2.3 1.4) (radius 0.0)
@@ -483,6 +486,7 @@
    (vertex (position 0.0 9.46) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_footprint_3d_model
   (footprint 5feab62a-1f24-47d9-bd1c-fd801d6b0538)
  )
@@ -495,4 +499,5 @@
  (approved missing_footprint_3d_model
   (footprint ef4a0805-c0ba-4dbf-8c26-57ac6300c8b5)
  )
+ (approved origin_not_in_center)
 )
