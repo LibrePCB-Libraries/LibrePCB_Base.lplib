@@ -3,7 +3,7 @@
  (description "Generic chip inductor 2012 (imperial 0805).\n\nLength: 2.0mm\nWidth: 1.25mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "2012,0805,l,inductor,ferrite,bead,chip,generic")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2023-11-05T09:15:41Z)
  (deprecated false)
  (generated_by "")

@@ -3,7 +3,7 @@
  (description "Generic chip capacitor 4520 (imperial 1808).\n\nLength: 4.5mm\nWidth: 2.0mm\n\nGenerated with librepcb-parts-generator (generate_chip.py)")
  (keywords "4520,1808,c,capacitor,chip,generic")
  (author "murray")
- (version "0.5")
+ (version "0.6")
  (created 2015-06-21T12:37:34Z)
  (deprecated false)
  (generated_by "")
