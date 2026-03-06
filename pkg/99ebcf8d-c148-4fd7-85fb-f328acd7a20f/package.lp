@@ -3,7 +3,7 @@
  (description "Diode outline package as specified by JEDEC DO-204AA. Also known as DO-7.\n\nBody diameter: 2.44 mm\nBody length: 6.73 mm\nLegs diameter: 0.51 mm\n\nGenerated with librepcb-parts-generator (generate_axial_tht.py)\n")
  (keywords "do204aa,do7,do-7")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-07T13:30:53Z)
  (deprecated false)
  (generated_by "")
@@ -23,6 +23,7 @@
  (footprint 1064f4c1-e52c-4641-9918-a95cf6221123
   (name "Horizontal, 10.16mm")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 5995d4be-f997-48ac-90fe-b736cad8799e)
   (pad 4204738b-cf8b-40ba-9089-ca1f4188b02a (side top) (shape roundrect)
@@ -824,4 +825,5 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )

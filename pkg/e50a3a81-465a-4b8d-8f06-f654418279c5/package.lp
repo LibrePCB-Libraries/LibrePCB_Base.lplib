@@ -3,7 +3,7 @@
  (description "Diode outline package as specified by JEDEC DO-204AH. Also known as DO-35.\n\nBody diameter: 1.90 mm\nBody length: 4.06 mm\nLegs diameter: 0.51 mm\n\nGenerated with librepcb-parts-generator (generate_axial_tht.py)\n")
  (keywords "do204ah,do35,do-35")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-07T13:30:53Z)
  (deprecated false)
  (generated_by "")
@@ -22,6 +22,7 @@
  (footprint 35720aec-174e-4a05-9d02-ea0748c96422
   (name "Horizontal, 7.62mm")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 835f746f-cbf9-44a0-8c43-c72e39c76399)
   (pad a12ab4a1-1681-42e8-a956-4c3c8a89369f (side top) (shape roundrect)
@@ -739,4 +740,5 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )

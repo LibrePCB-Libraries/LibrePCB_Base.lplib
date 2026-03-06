@@ -3,7 +3,7 @@
  (description "Diode outline package as specified by JEDEC DO-204AG. Also known as DO-34.\n\nBody diameter: 1.58 mm\nBody length: 2.60 mm\nLegs diameter: 0.51 mm\n\nGenerated with librepcb-parts-generator (generate_axial_tht.py)\n")
  (keywords "do204ag,do43,do-34")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.2.1")
  (created 2023-09-07T13:30:53Z)
  (deprecated false)
  (generated_by "")
@@ -22,6 +22,7 @@
  (footprint 55698bce-c1c3-4022-8cd1-9cb32369e8a4
   (name "Horizontal, 5.08mm")
   (description "")
+  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (3d_model 62fda336-6931-4db3-b3c7-c3068a8930ac)
   (pad e21832a5-65a4-4ac8-9b37-06857b8a7c85 (side top) (shape roundrect)
@@ -777,4 +778,5 @@
    (auto_rotate false) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
 )
