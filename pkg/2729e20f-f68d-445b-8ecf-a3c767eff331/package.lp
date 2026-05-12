@@ -3,7 +3,7 @@
  (description "SOT143-4 package as specified by JEDEC TO-253D.\n\nPitch: 1.72 mm and 1.92 mm\nLead Span: 2.37 mm\nBody Width: 1.3 mm\nBody Length: 2.9 mm\nBody Height: max. 1.22 mm\n\nJEDEC standard (requires registration): https://www.jedec.org/system/files/docs/to-253d.pdf\nOutline according to (adjusted to JEDEC dimensions): https://www.nxp.com/docs/en/package-information/SOT143B.pdf")
  (keywords "sot143,sot-143,to253d,to-253d,to-253-d")
  (author "eduardosm")
- (version "0.1.1")
+ (version "0.2")
  (created 2026-03-06T16:52:49Z)
  (deprecated false)
  (generated_by "")
