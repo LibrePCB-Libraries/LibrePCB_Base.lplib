@@ -1,0 +1,10 @@
+(librepcb_package_category a1c24335-5cdc-4eea-9319-2b01132e3af8
+ (name "Decawatt Package (DPAK)")
+ (description "")
+ (keywords "")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2026-06-01T18:32:58Z)
+ (deprecated false)
+ (parent e8388369-7f8d-45e8-98e6-a655bc498559)
+)
